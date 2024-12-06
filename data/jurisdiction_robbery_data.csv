@@ -1,0 +1,2830 @@
+"jurisdiction","report_year","total_robberies"
+"Albuquerque","1975",819
+"Albuquerque","1976",871
+"Albuquerque","1977",754
+"Albuquerque","1978",694
+"Albuquerque","1979",815
+"Albuquerque","1980",914
+"Albuquerque","1981",1107
+"Albuquerque","1982",926
+"Albuquerque","1983",909
+"Albuquerque","1984",1215
+"Albuquerque","1985",1247
+"Albuquerque","1986",1248
+"Albuquerque","1987",987
+"Albuquerque","1988",928
+"Albuquerque","1989",1032
+"Albuquerque","1990",1030
+"Albuquerque","1991",1307
+"Albuquerque","1992",1460
+"Albuquerque","1993",1552
+"Albuquerque","1994",1434
+"Albuquerque","1995",1623
+"Albuquerque","1996",1998
+"Albuquerque","1997",1729
+"Albuquerque","1998",1693
+"Albuquerque","1999",1667
+"Albuquerque","2000",1547
+"Albuquerque","2001",1610
+"Albuquerque","2002",1295
+"Albuquerque","2003",1080
+"Albuquerque","2004",1238
+"Albuquerque","2005",1150
+"Albuquerque","2006",1171
+"Albuquerque","2007",1439
+"Albuquerque","2008",1350
+"Albuquerque","2009",1103
+"Albuquerque","2010",940
+"Albuquerque","2011",998
+"Albuquerque","2012",1092
+"Albuquerque","2013",1046
+"Albuquerque","2014",1381
+"Albuquerque","2015",1686
+"Arlington","1975",113
+"Arlington","1976",99
+"Arlington","1977",85
+"Arlington","1978",132
+"Arlington","1979",190
+"Arlington","1980",196
+"Arlington","1981",212
+"Arlington","1982",191
+"Arlington","1983",186
+"Arlington","1984",200
+"Arlington","1985",299
+"Arlington","1986",518
+"Arlington","1987",511
+"Arlington","1988",568
+"Arlington","1989",552
+"Arlington","1990",586
+"Arlington","1991",700
+"Arlington","1992",725
+"Arlington","1993",710
+"Arlington","1994",654
+"Arlington","1995",521
+"Arlington","1996",618
+"Arlington","1997",527
+"Arlington","1998",506
+"Arlington","1999",546
+"Arlington","2000",595
+"Arlington","2001",687
+"Arlington","2002",794
+"Arlington","2003",598
+"Arlington","2004",662
+"Arlington","2005",768
+"Arlington","2006",890
+"Arlington","2007",742
+"Arlington","2008",694
+"Arlington","2009",672
+"Arlington","2010",532
+"Arlington","2011",540
+"Arlington","2012",532
+"Arlington","2013",562
+"Arlington","2014",493
+"Arlington","2015",529
+"Atlanta","1975",3887
+"Atlanta","1976",3380
+"Atlanta","1977",3354
+"Atlanta","1978",4119
+"Atlanta","1979",5189
+"Atlanta","1980",4733
+"Atlanta","1981",4537
+"Atlanta","1982",3999
+"Atlanta","1983",3552
+"Atlanta","1984",4029
+"Atlanta","1985",4792
+"Atlanta","1986",5428
+"Atlanta","1987",5100
+"Atlanta","1988",5972
+"Atlanta","1989",6796
+"Atlanta","1990",6109
+"Atlanta","1991",6479
+"Atlanta","1992",5824
+"Atlanta","1993",6045
+"Atlanta","1994",5343
+"Atlanta","1995",5260
+"Atlanta","1996",4805
+"Atlanta","1997",4751
+"Atlanta","1998",4658
+"Atlanta","1999",4072
+"Atlanta","2000",4322
+"Atlanta","2001",4341
+"Atlanta","2002",4168
+"Atlanta","2003",3701
+"Atlanta","2004",3116
+"Atlanta","2005",2861
+"Atlanta","2006",2959
+"Atlanta","2007",3577
+"Atlanta","2008",3308
+"Atlanta","2009",2725
+"Atlanta","2010",2162
+"Atlanta","2011",2343
+"Atlanta","2012",2276
+"Atlanta","2013",2363
+"Atlanta","2014",2329
+"Atlanta","2015",1995
+"Aurora","1975",171
+"Aurora","1976",166
+"Aurora","1977",166
+"Aurora","1978",232
+"Aurora","1979",351
+"Aurora","1980",351
+"Aurora","1981",359
+"Aurora","1982",353
+"Aurora","1983",333
+"Aurora","1984",317
+"Aurora","1985",434
+"Aurora","1986",580
+"Aurora","1987",524
+"Aurora","1988",462
+"Aurora","1989",378
+"Aurora","1990",397
+"Aurora","1991",564
+"Aurora","1992",672
+"Aurora","1993",740
+"Aurora","1994",623
+"Aurora","1995",549
+"Aurora","1996",559
+"Aurora","1997",501
+"Aurora","1998",477
+"Aurora","1999",455
+"Aurora","2000",473
+"Aurora","2001",472
+"Aurora","2002",546
+"Aurora","2003",572
+"Aurora","2004",554
+"Aurora","2005",644
+"Aurora","2006",600
+"Aurora","2007",584
+"Aurora","2008",555
+"Aurora","2009",553
+"Aurora","2010",507
+"Aurora","2011",507
+"Aurora","2012",482
+"Aurora","2013",469
+"Aurora","2014",414
+"Aurora","2015",447
+"Austin","1975",529
+"Austin","1976",518
+"Austin","1977",512
+"Austin","1978",635
+"Austin","1979",577
+"Austin","1980",678
+"Austin","1981",669
+"Austin","1982",635
+"Austin","1983",665
+"Austin","1984",768
+"Austin","1985",1076
+"Austin","1986",1124
+"Austin","1987",985
+"Austin","1988",1018
+"Austin","1989",1019
+"Austin","1990",1461
+"Austin","1991",1555
+"Austin","1992",1450
+"Austin","1993",1555
+"Austin","1994",1542
+"Austin","1995",1336
+"Austin","1996",1376
+"Austin","1997",1284
+"Austin","1998",1097
+"Austin","1999",1002
+"Austin","2000",1005
+"Austin","2001",1183
+"Austin","2002",1174
+"Austin","2003",1251
+"Austin","2004",1406
+"Austin","2005",1182
+"Austin","2006",1358
+"Austin","2007",1457
+"Austin","2008",1333
+"Austin","2009",1415
+"Austin","2010",1231
+"Austin","2011",1106
+"Austin","2012",978
+"Austin","2013",763
+"Austin","2014",873
+"Austin","2015",929
+"Baltimore","1975",9055
+"Baltimore","1976",7755
+"Baltimore","1977",7563
+"Baltimore","1978",8097
+"Baltimore","1979",8482
+"Baltimore","1980",10020
+"Baltimore","1981",10715
+"Baltimore","1982",9347
+"Baltimore","1983",9167
+"Baltimore","1984",8002
+"Baltimore","1985",7771
+"Baltimore","1986",7989
+"Baltimore","1987",7466
+"Baltimore","1988",7396
+"Baltimore","1989",7966
+"Baltimore","1990",9477
+"Baltimore","1991",10770
+"Baltimore","1992",12263
+"Baltimore","1993",12376
+"Baltimore","1994",11275
+"Baltimore","1995",11353
+"Baltimore","1996",10393
+"Baltimore","1997",8629
+"Baltimore","1998",7687
+"Baltimore","1999",7462
+"Baltimore","2000",6613
+"Baltimore","2001",5747
+"Baltimore","2002",4714
+"Baltimore","2003",4339
+"Baltimore","2004",4050
+"Baltimore","2005",3910
+"Baltimore","2006",4229
+"Baltimore","2007",3895
+"Baltimore","2008",4026
+"Baltimore","2009",3707
+"Baltimore","2010",3336
+"Baltimore","2011",3457
+"Baltimore","2012",3605
+"Baltimore","2013",3734
+"Baltimore","2014",3677
+"Baltimore","2015",4313
+"Baltimore County","1975",750
+"Baltimore County","1976",688
+"Baltimore County","1977",717
+"Baltimore County","1978",818
+"Baltimore County","1979",1056
+"Baltimore County","1980",1208
+"Baltimore County","1981",1394
+"Baltimore County","1982",1238
+"Baltimore County","1983",1260
+"Baltimore County","1984",1082
+"Baltimore County","1985",1081
+"Baltimore County","1986",1384
+"Baltimore County","1987",1416
+"Baltimore County","1988",1656
+"Baltimore County","1989",1804
+"Baltimore County","1990",1707
+"Baltimore County","1991",2139
+"Baltimore County","1992",2293
+"Baltimore County","1993",2307
+"Baltimore County","1994",2165
+"Baltimore County","1995",2468
+"Baltimore County","1996",2427
+"Baltimore County","1997",2477
+"Baltimore County","1998",1876
+"Baltimore County","1999",1703
+"Baltimore County","2000",1582
+"Baltimore County","2001",1723
+"Baltimore County","2002",1700
+"Baltimore County","2003",1609
+"Baltimore County","2004",1563
+"Baltimore County","2005",1765
+"Baltimore County","2006",2084
+"Baltimore County","2007",1786
+"Baltimore County","2008",1725
+"Baltimore County","2009",1471
+"Baltimore County","2010",1335
+"Baltimore County","2011",1451
+"Baltimore County","2012",1367
+"Baltimore County","2013",1510
+"Baltimore County","2014",1512
+"Baltimore County","2015",0
+"Boston","1975",7778
+"Boston","1976",6125
+"Boston","1977",5655
+"Boston","1978",5635
+"Boston","1979",6600
+"Boston","1980",7526
+"Boston","1981",9248
+"Boston","1982",6531
+"Boston","1983",6713
+"Boston","1984",5539
+"Boston","1985",6232
+"Boston","1986",6225
+"Boston","1987",5408
+"Boston","1988",5233
+"Boston","1989",5866
+"Boston","1990",6022
+"Boston","1991",4784
+"Boston","1992",4765
+"Boston","1993",4081
+"Boston","1994",4245
+"Boston","1995",3597
+"Boston","1996",3470
+"Boston","1997",2728
+"Boston","1998",2334
+"Boston","1999",2467
+"Boston","2000",2451
+"Boston","2001",2523
+"Boston","2002",2533
+"Boston","2003",2759
+"Boston","2004",2428
+"Boston","2005",2649
+"Boston","2006",2698
+"Boston","2007",2242
+"Boston","2008",2398
+"Boston","2009",2277
+"Boston","2010",1926
+"Boston","2011",1904
+"Boston","2012",1910
+"Boston","2013",1868
+"Boston","2014",1680
+"Boston","2015",1551
+"Buffalo","1975",2340
+"Buffalo","1976",1937
+"Buffalo","1977",1822
+"Buffalo","1978",1721
+"Buffalo","1979",1958
+"Buffalo","1980",1914
+"Buffalo","1981",1734
+"Buffalo","1982",1653
+"Buffalo","1983",1410
+"Buffalo","1984",1386
+"Buffalo","1985",1390
+"Buffalo","1986",1533
+"Buffalo","1987",1552
+"Buffalo","1988",1774
+"Buffalo","1989",1829
+"Buffalo","1990",2172
+"Buffalo","1991",2705
+"Buffalo","1992",2998
+"Buffalo","1993",2898
+"Buffalo","1994",3269
+"Buffalo","1995",2836
+"Buffalo","1996",2623
+"Buffalo","1997",2195
+"Buffalo","1998",1736
+"Buffalo","1999",1473
+"Buffalo","2000",1555
+"Buffalo","2001",1600
+"Buffalo","2002",1627
+"Buffalo","2003",1654
+"Buffalo","2004",1485
+"Buffalo","2005",1667
+"Buffalo","2006",1708
+"Buffalo","2007",1533
+"Buffalo","2008",1539
+"Buffalo","2009",1636
+"Buffalo","2010",1466
+"Buffalo","2011",1459
+"Buffalo","2012",1388
+"Buffalo","2013",1322
+"Buffalo","2014",1277
+"Buffalo","2015",1033
+"Charlotte","1975",822
+"Charlotte","1976",731
+"Charlotte","1977",614
+"Charlotte","1978",709
+"Charlotte","1979",703
+"Charlotte","1980",686
+"Charlotte","1981",774
+"Charlotte","1982",990
+"Charlotte","1983",1102
+"Charlotte","1984",1144
+"Charlotte","1985",1121
+"Charlotte","1986",1454
+"Charlotte","1987",1486
+"Charlotte","1988",1933
+"Charlotte","1989",2369
+"Charlotte","1990",3208
+"Charlotte","1991",2899
+"Charlotte","1992",3058
+"Charlotte","1993",3227
+"Charlotte","1994",2713
+"Charlotte","1995",2949
+"Charlotte","1996",2594
+"Charlotte","1997",2716
+"Charlotte","1998",2400
+"Charlotte","1999",2517
+"Charlotte","2000",2651
+"Charlotte","2001",2996
+"Charlotte","2002",2893
+"Charlotte","2003",2688
+"Charlotte","2004",2786
+"Charlotte","2005",3649
+"Charlotte","2006",3207
+"Charlotte","2007",3191
+"Charlotte","2008",2984
+"Charlotte","2009",2346
+"Charlotte","2010",1795
+"Charlotte","2011",1612
+"Charlotte","2012",1798
+"Charlotte","2013",1805
+"Charlotte","2014",1586
+"Charlotte","2015",1947
+"Chicago","1975",22171
+"Chicago","1976",17577
+"Chicago","1977",16512
+"Chicago","1978",15233
+"Chicago","1979",14464
+"Chicago","1980",16261
+"Chicago","1981",16118
+"Chicago","1982",16307
+"Chicago","1983",23471
+"Chicago","1984",28535
+"Chicago","1985",26892
+"Chicago","1986",30918
+"Chicago","1987",29815
+"Chicago","1988",28975
+"Chicago","1989",31588
+"Chicago","1990",37156
+"Chicago","1991",43783
+"Chicago","1992",38448
+"Chicago","1993",35189
+"Chicago","1994",33925
+"Chicago","1995",30086
+"Chicago","1996",26860
+"Chicago","1997",25289
+"Chicago","1998",23117
+"Chicago","1999",20210
+"Chicago","2000",19345
+"Chicago","2001",18433
+"Chicago","2002",18532
+"Chicago","2003",17302
+"Chicago","2004",15912
+"Chicago","2005",15964
+"Chicago","2006",15863
+"Chicago","2007",15425
+"Chicago","2008",16653
+"Chicago","2009",15877
+"Chicago","2010",14213
+"Chicago","2011",13975
+"Chicago","2012",13476
+"Chicago","2013",11826
+"Chicago","2014",9800
+"Chicago","2015",9649
+"Cincinnati","1975",1745
+"Cincinnati","1976",1525
+"Cincinnati","1977",1625
+"Cincinnati","1978",1300
+"Cincinnati","1979",1662
+"Cincinnati","1980",1686
+"Cincinnati","1981",1756
+"Cincinnati","1982",1589
+"Cincinnati","1983",1401
+"Cincinnati","1984",1332
+"Cincinnati","1985",1242
+"Cincinnati","1986",1216
+"Cincinnati","1987",1183
+"Cincinnati","1988",1211
+"Cincinnati","1989",1428
+"Cincinnati","1990",1613
+"Cincinnati","1991",2315
+"Cincinnati","1992",2294
+"Cincinnati","1993",2327
+"Cincinnati","1994",2131
+"Cincinnati","1995",2155
+"Cincinnati","1996",1774
+"Cincinnati","1997",0
+"Cincinnati","1998",0
+"Cincinnati","1999",1209
+"Cincinnati","2000",1404
+"Cincinnati","2001",2095
+"Cincinnati","2002",2393
+"Cincinnati","2003",2184
+"Cincinnati","2004",2409
+"Cincinnati","2005",2320
+"Cincinnati","2006",2341
+"Cincinnati","2007",1962
+"Cincinnati","2008",2419
+"Cincinnati","2009",2272
+"Cincinnati","2010",2117
+"Cincinnati","2011",1775
+"Cincinnati","2012",1726
+"Cincinnati","2013",1612
+"Cincinnati","2014",1358
+"Cincinnati","2015",1263
+"Cleveland","1975",7100
+"Cleveland","1976",5453
+"Cleveland","1977",6466
+"Cleveland","1978",6354
+"Cleveland","1979",5760
+"Cleveland","1980",6802
+"Cleveland","1981",7821
+"Cleveland","1982",5296
+"Cleveland","1983",4115
+"Cleveland","1984",4090
+"Cleveland","1985",3499
+"Cleveland","1986",3698
+"Cleveland","1987",3541
+"Cleveland","1988",3795
+"Cleveland","1989",4045
+"Cleveland","1990",4917
+"Cleveland","1991",5132
+"Cleveland","1992",4423
+"Cleveland","1993",4297
+"Cleveland","1994",3924
+"Cleveland","1995",4224
+"Cleveland","1996",4062
+"Cleveland","1997",3837
+"Cleveland","1998",3364
+"Cleveland","1999",3038
+"Cleveland","2000",3084
+"Cleveland","2001",3298
+"Cleveland","2002",3263
+"Cleveland","2003",3167
+"Cleveland","2004",3294
+"Cleveland","2005",3744
+"Cleveland","2006",4297
+"Cleveland","2007",4025
+"Cleveland","2008",3805
+"Cleveland","2009",3555
+"Cleveland","2010",3181
+"Cleveland","2011",3157
+"Cleveland","2012",3257
+"Cleveland","2013",3496
+"Cleveland","2014",2992
+"Cleveland","2015",0
+"Columbus","1975",2402
+"Columbus","1976",1921
+"Columbus","1977",1752
+"Columbus","1978",1923
+"Columbus","1979",2445
+"Columbus","1980",3224
+"Columbus","1981",3356
+"Columbus","1982",2507
+"Columbus","1983",2407
+"Columbus","1984",2298
+"Columbus","1985",2144
+"Columbus","1986",2255
+"Columbus","1987",2864
+"Columbus","1988",3028
+"Columbus","1989",3127
+"Columbus","1990",3541
+"Columbus","1991",3747
+"Columbus","1992",3585
+"Columbus","1993",3887
+"Columbus","1994",3599
+"Columbus","1995",3329
+"Columbus","1996",3318
+"Columbus","1997",3104
+"Columbus","1998",2615
+"Columbus","1999",3026
+"Columbus","2000",3098
+"Columbus","2001",3364
+"Columbus","2002",3503
+"Columbus","2003",3332
+"Columbus","2004",3358
+"Columbus","2005",3810
+"Columbus","2006",3654
+"Columbus","2007",3855
+"Columbus","2008",3601
+"Columbus","2009",3399
+"Columbus","2010",3369
+"Columbus","2011",3251
+"Columbus","2012",3031
+"Columbus","2013",2463
+"Columbus","2014",2112
+"Columbus","2015",2240
+"Dallas","1975",3386
+"Dallas","1976",3113
+"Dallas","1977",3637
+"Dallas","1978",3835
+"Dallas","1979",4456
+"Dallas","1980",4983
+"Dallas","1981",5402
+"Dallas","1982",5695
+"Dallas","1983",4914
+"Dallas","1984",4841
+"Dallas","1985",6051
+"Dallas","1986",9289
+"Dallas","1987",9091
+"Dallas","1988",9647
+"Dallas","1989",9442
+"Dallas","1990",10565
+"Dallas","1991",11254
+"Dallas","1992",9532
+"Dallas","1993",7420
+"Dallas","1994",7077
+"Dallas","1995",5899
+"Dallas","1996",6122
+"Dallas","1997",5626
+"Dallas","1998",5878
+"Dallas","1999",6357
+"Dallas","2000",7046
+"Dallas","2001",8330
+"Dallas","2002",8041
+"Dallas","2003",7963
+"Dallas","2004",7466
+"Dallas","2005",6882
+"Dallas","2006",6914
+"Dallas","2007",7222
+"Dallas","2008",6466
+"Dallas","2009",5501
+"Dallas","2010",4487
+"Dallas","2011",4066
+"Dallas","2012",4093
+"Dallas","2013",4202
+"Dallas","2014",3856
+"Dallas","2015",4177
+"Denver","1975",2568
+"Denver","1976",2042
+"Denver","1977",2488
+"Denver","1978",2362
+"Denver","1979",2257
+"Denver","1980",2366
+"Denver","1981",2403
+"Denver","1982",2386
+"Denver","1983",1924
+"Denver","1984",1681
+"Denver","1985",1917
+"Denver","1986",2099
+"Denver","1987",1612
+"Denver","1988",1393
+"Denver","1989",1267
+"Denver","1990",1312
+"Denver","1991",1635
+"Denver","1992",1804
+"Denver","1993",1863
+"Denver","1994",1714
+"Denver","1995",1413
+"Denver","1996",1327
+"Denver","1997",1253
+"Denver","1998",1064
+"Denver","1999",1038
+"Denver","2000",1039
+"Denver","2001",1250
+"Denver","2002",1191
+"Denver","2003",1421
+"Denver","2004",1442
+"Denver","2005",1429
+"Denver","2006",1280
+"Denver","2007",1039
+"Denver","2008",956
+"Denver","2009",931
+"Denver","2010",943
+"Denver","2011",1143
+"Denver","2012",1168
+"Denver","2013",1133
+"Denver","2014",1088
+"Denver","2015",1230
+"Detroit","1975",21317
+"Detroit","1976",21213
+"Detroit","1977",15832
+"Detroit","1978",12283
+"Detroit","1979",11413
+"Detroit","1980",13429
+"Detroit","1981",14797
+"Detroit","1982",16037
+"Detroit","1983",16922
+"Detroit","1984",18352
+"Detroit","1985",16769
+"Detroit","1986",16421
+"Detroit","1987",15093
+"Detroit","1988",12978
+"Detroit","1989",11902
+"Detroit","1990",13010
+"Detroit","1991",13569
+"Detroit","1992",12194
+"Detroit","1993",13591
+"Detroit","1994",12772
+"Detroit","1995",10076
+"Detroit","1996",9504
+"Detroit","1997",8208
+"Detroit","1998",8558
+"Detroit","1999",7823
+"Detroit","2000",7868
+"Detroit","2001",7096
+"Detroit","2002",6288
+"Detroit","2003",5817
+"Detroit","2004",5451
+"Detroit","2005",6826
+"Detroit","2006",7235
+"Detroit","2007",6567
+"Detroit","2008",6325
+"Detroit","2009",6007
+"Detroit","2010",5539
+"Detroit","2011",4976
+"Detroit","2012",4850
+"Detroit","2013",4771
+"Detroit","2014",3573
+"Detroit","2015",3457
+"El Paso","1975",840
+"El Paso","1976",792
+"El Paso","1977",824
+"El Paso","1978",775
+"El Paso","1979",813
+"El Paso","1980",828
+"El Paso","1981",871
+"El Paso","1982",932
+"El Paso","1983",865
+"El Paso","1984",1050
+"El Paso","1985",993
+"El Paso","1986",1039
+"El Paso","1987",969
+"El Paso","1988",1088
+"El Paso","1989",1139
+"El Paso","1990",1381
+"El Paso","1991",1484
+"El Paso","1992",1610
+"El Paso","1993",1561
+"El Paso","1994",1086
+"El Paso","1995",1076
+"El Paso","1996",1195
+"El Paso","1997",1066
+"El Paso","1998",823
+"El Paso","1999",715
+"El Paso","2000",731
+"El Paso","2001",775
+"El Paso","2002",575
+"El Paso","2003",581
+"El Paso","2004",570
+"El Paso","2005",448
+"El Paso","2006",503
+"El Paso","2007",472
+"El Paso","2008",456
+"El Paso","2009",452
+"El Paso","2010",479
+"El Paso","2011",464
+"El Paso","2012",471
+"El Paso","2013",457
+"El Paso","2014",415
+"El Paso","2015",410
+"Fairfax County","1975",433
+"Fairfax County","1976",337
+"Fairfax County","1977",419
+"Fairfax County","1978",492
+"Fairfax County","1979",465
+"Fairfax County","1980",503
+"Fairfax County","1981",533
+"Fairfax County","1982",521
+"Fairfax County","1983",364
+"Fairfax County","1984",444
+"Fairfax County","1985",511
+"Fairfax County","1986",495
+"Fairfax County","1987",529
+"Fairfax County","1988",548
+"Fairfax County","1989",528
+"Fairfax County","1990",490
+"Fairfax County","1991",477
+"Fairfax County","1992",473
+"Fairfax County","1993",460
+"Fairfax County","1994",428
+"Fairfax County","1995",447
+"Fairfax County","1996",487
+"Fairfax County","1997",447
+"Fairfax County","1998",383
+"Fairfax County","1999",258
+"Fairfax County","2000",107
+"Fairfax County","2001",173
+"Fairfax County","2002",301
+"Fairfax County","2003",352
+"Fairfax County","2004",354
+"Fairfax County","2005",298
+"Fairfax County","2006",418
+"Fairfax County","2007",490
+"Fairfax County","2008",343
+"Fairfax County","2009",326
+"Fairfax County","2010",383
+"Fairfax County","2011",422
+"Fairfax County","2012",343
+"Fairfax County","2013",409
+"Fairfax County","2014",400
+"Fairfax County","2015",443
+"Fort Worth","1975",1207
+"Fort Worth","1976",985
+"Fort Worth","1977",1132
+"Fort Worth","1978",1218
+"Fort Worth","1979",1783
+"Fort Worth","1980",2286
+"Fort Worth","1981",2312
+"Fort Worth","1982",2233
+"Fort Worth","1983",2020
+"Fort Worth","1984",2080
+"Fort Worth","1985",2620
+"Fort Worth","1986",3373
+"Fort Worth","1987",3270
+"Fort Worth","1988",3115
+"Fort Worth","1989",2525
+"Fort Worth","1990",2801
+"Fort Worth","1991",3426
+"Fort Worth","1992",3488
+"Fort Worth","1993",2750
+"Fort Worth","1994",2379
+"Fort Worth","1995",1965
+"Fort Worth","1996",1692
+"Fort Worth","1997",1402
+"Fort Worth","1998",1357
+"Fort Worth","1999",1447
+"Fort Worth","2000",1314
+"Fort Worth","2001",1389
+"Fort Worth","2002",1648
+"Fort Worth","2003",1462
+"Fort Worth","2004",1415
+"Fort Worth","2005",1379
+"Fort Worth","2006",1419
+"Fort Worth","2007",1623
+"Fort Worth","2008",1706
+"Fort Worth","2009",1449
+"Fort Worth","2010",1330
+"Fort Worth","2011",1267
+"Fort Worth","2012",1280
+"Fort Worth","2013",1257
+"Fort Worth","2014",1140
+"Fort Worth","2015",981
+"Fresno","1975",567
+"Fresno","1976",723
+"Fresno","1977",958
+"Fresno","1978",1102
+"Fresno","1979",1009
+"Fresno","1980",1232
+"Fresno","1981",1102
+"Fresno","1982",1212
+"Fresno","1983",984
+"Fresno","1984",1066
+"Fresno","1985",1233
+"Fresno","1986",1316
+"Fresno","1987",1096
+"Fresno","1988",1393
+"Fresno","1989",1525
+"Fresno","1990",1592
+"Fresno","1991",2182
+"Fresno","1992",3094
+"Fresno","1993",2879
+"Fresno","1994",2810
+"Fresno","1995",2166
+"Fresno","1996",2087
+"Fresno","1997",1794
+"Fresno","1998",1394
+"Fresno","1999",1268
+"Fresno","2000",1304
+"Fresno","2001",1362
+"Fresno","2002",1479
+"Fresno","2003",1215
+"Fresno","2004",1232
+"Fresno","2005",1275
+"Fresno","2006",1282
+"Fresno","2007",1104
+"Fresno","2008",984
+"Fresno","2009",1085
+"Fresno","2010",1021
+"Fresno","2011",1020
+"Fresno","2012",1015
+"Fresno","2013",903
+"Fresno","2014",781
+"Fresno","2015",1012
+"Honolulu","1975",1050
+"Honolulu","1976",1112
+"Honolulu","1977",1081
+"Honolulu","1978",1473
+"Honolulu","1979",1568
+"Honolulu","1980",1729
+"Honolulu","1981",1320
+"Honolulu","1982",1457
+"Honolulu","1983",1243
+"Honolulu","1984",1117
+"Honolulu","1985",965
+"Honolulu","1986",1052
+"Honolulu","1987",985
+"Honolulu","1988",833
+"Honolulu","1989",809
+"Honolulu","1990",889
+"Honolulu","1991",860
+"Honolulu","1992",1013
+"Honolulu","1993",1085
+"Honolulu","1994",1058
+"Honolulu","1995",1371
+"Honolulu","1996",1421
+"Honolulu","1997",1214
+"Honolulu","1998",1052
+"Honolulu","1999",907
+"Honolulu","2000",984
+"Honolulu","2001",999
+"Honolulu","2002",1072
+"Honolulu","2003",989
+"Honolulu","2004",818
+"Honolulu","2005",841
+"Honolulu","2006",956
+"Honolulu","2007",943
+"Honolulu","2008",928
+"Honolulu","2009",869
+"Honolulu","2010",891
+"Honolulu","2011",821
+"Honolulu","2012",914
+"Honolulu","2013",743
+"Honolulu","2014",768
+"Honolulu","2015",896
+"Houston","1975",6422
+"Houston","1976",5531
+"Houston","1977",6153
+"Houston","1978",7352
+"Houston","1979",9311
+"Houston","1980",9181
+"Houston","1981",6893
+"Houston","1982",12392
+"Houston","1983",10270
+"Houston","1984",9157
+"Houston","1985",9589
+"Houston","1986",10926
+"Houston","1987",9692
+"Houston","1988",10049
+"Houston","1989",9820
+"Houston","1990",12921
+"Houston","1991",13883
+"Houston","1992",11130
+"Houston","1993",10772
+"Houston","1994",9981
+"Houston","1995",9222
+"Houston","1996",8276
+"Houston","1997",8146
+"Houston","1998",7711
+"Houston","1999",8350
+"Houston","2000",8256
+"Houston","2001",9921
+"Houston","2002",11212
+"Houston","2003",10985
+"Houston","2004",10182
+"Houston","2005",11128
+"Houston","2006",11371
+"Houston","2007",11479
+"Houston","2008",10603
+"Houston","2009",11367
+"Houston","2010",9449
+"Houston","2011",8054
+"Houston","2012",9385
+"Houston","2013",9891
+"Houston","2014",10186
+"Houston","2015",10278
+"Indianapolis","1975",3092
+"Indianapolis","1976",2366
+"Indianapolis","1977",2139
+"Indianapolis","1978",1963
+"Indianapolis","1979",2053
+"Indianapolis","1980",2193
+"Indianapolis","1981",2194
+"Indianapolis","1982",1993
+"Indianapolis","1983",1821
+"Indianapolis","1984",1842
+"Indianapolis","1985",1795
+"Indianapolis","1986",1571
+"Indianapolis","1987",1334
+"Indianapolis","1988",1464
+"Indianapolis","1989",1806
+"Indianapolis","1990",1642
+"Indianapolis","1991",2001
+"Indianapolis","1992",2157
+"Indianapolis","1993",2050
+"Indianapolis","1994",2454
+"Indianapolis","1995",2086
+"Indianapolis","1996",2600
+"Indianapolis","1997",2750
+"Indianapolis","1998",2893
+"Indianapolis","1999",2598
+"Indianapolis","2000",2551
+"Indianapolis","2001",2787
+"Indianapolis","2002",2937
+"Indianapolis","2003",2828
+"Indianapolis","2004",2763
+"Indianapolis","2005",3274
+"Indianapolis","2006",3249
+"Indianapolis","2007",4046
+"Indianapolis","2008",4023
+"Indianapolis","2009",3929
+"Indianapolis","2010",3367
+"Indianapolis","2011",3372
+"Indianapolis","2012",3442
+"Indianapolis","2013",3800
+"Indianapolis","2014",3808
+"Indianapolis","2015",3802
+"Jacksonville","1975",1727
+"Jacksonville","1976",1558
+"Jacksonville","1977",1466
+"Jacksonville","1978",1347
+"Jacksonville","1979",1555
+"Jacksonville","1980",1631
+"Jacksonville","1981",2340
+"Jacksonville","1982",2152
+"Jacksonville","1983",2288
+"Jacksonville","1984",2134
+"Jacksonville","1985",2693
+"Jacksonville","1986",2985
+"Jacksonville","1987",3876
+"Jacksonville","1988",4299
+"Jacksonville","1989",3940
+"Jacksonville","1990",3963
+"Jacksonville","1991",3846
+"Jacksonville","1992",3614
+"Jacksonville","1993",3604
+"Jacksonville","1994",3427
+"Jacksonville","1995",2920
+"Jacksonville","1996",2792
+"Jacksonville","1997",2369
+"Jacksonville","1998",2051
+"Jacksonville","1999",1703
+"Jacksonville","2000",2022
+"Jacksonville","2001",2195
+"Jacksonville","2002",2016
+"Jacksonville","2003",2344
+"Jacksonville","2004",2223
+"Jacksonville","2005",2253
+"Jacksonville","2006",2304
+"Jacksonville","2007",3114
+"Jacksonville","2008",2938
+"Jacksonville","2009",2359
+"Jacksonville","2010",1693
+"Jacksonville","2011",1578
+"Jacksonville","2012",1371
+"Jacksonville","2013",1424
+"Jacksonville","2014",1419
+"Jacksonville","2015",1398
+"Kansas City","1975",3081
+"Kansas City","1976",2410
+"Kansas City","1977",2326
+"Kansas City","1978",1864
+"Kansas City","1979",2651
+"Kansas City","1980",2889
+"Kansas City","1981",3235
+"Kansas City","1982",2756
+"Kansas City","1983",2876
+"Kansas City","1984",2440
+"Kansas City","1985",2646
+"Kansas City","1986",3442
+"Kansas City","1987",3279
+"Kansas City","1988",3479
+"Kansas City","1989",3824
+"Kansas City","1990",4492
+"Kansas City","1991",4955
+"Kansas City","1992",4494
+"Kansas City","1993",3891
+"Kansas City","1994",3727
+"Kansas City","1995",3346
+"Kansas City","1996",2881
+"Kansas City","1997",2711
+"Kansas City","1998",2661
+"Kansas City","1999",2479
+"Kansas City","2000",2265
+"Kansas City","2001",2367
+"Kansas City","2002",2011
+"Kansas City","2003",1890
+"Kansas City","2004",1923
+"Kansas City","2005",2000
+"Kansas City","2006",2044
+"Kansas City","2007",2358
+"Kansas City","2008",2090
+"Kansas City","2009",1970
+"Kansas City","2010",1671
+"Kansas City","2011",1671
+"Kansas City","2012",1648
+"Kansas City","2013",1666
+"Kansas City","2014",1626
+"Kansas City","2015",1703
+"Las Vegas","1975",1345
+"Las Vegas","1976",1276
+"Las Vegas","1977",1419
+"Las Vegas","1978",1548
+"Las Vegas","1979",1891
+"Las Vegas","1980",2636
+"Las Vegas","1981",2778
+"Las Vegas","1982",2739
+"Las Vegas","1983",1985
+"Las Vegas","1984",1767
+"Las Vegas","1985",1755
+"Las Vegas","1986",1933
+"Las Vegas","1987",1837
+"Las Vegas","1988",1887
+"Las Vegas","1989",2046
+"Las Vegas","1990",2229
+"Las Vegas","1991",3193
+"Las Vegas","1992",3609
+"Las Vegas","1993",3572
+"Las Vegas","1994",3805
+"Las Vegas","1995",3712
+"Las Vegas","1996",3650
+"Las Vegas","1997",3745
+"Las Vegas","1998",3292
+"Las Vegas","1999",3121
+"Las Vegas","2000",3366
+"Las Vegas","2001",3667
+"Las Vegas","2002",3776
+"Las Vegas","2003",3955
+"Las Vegas","2004",3729
+"Las Vegas","2005",3494
+"Las Vegas","2006",5381
+"Las Vegas","2007",5251
+"Las Vegas","2008",4932
+"Las Vegas","2009",4495
+"Las Vegas","2010",4003
+"Las Vegas","2011",3493
+"Las Vegas","2012",3824
+"Las Vegas","2013",4072
+"Las Vegas","2014",4885
+"Las Vegas","2015",5010
+"Long Beach","1975",1959
+"Long Beach","1976",1703
+"Long Beach","1977",1996
+"Long Beach","1978",2130
+"Long Beach","1979",2278
+"Long Beach","1980",2781
+"Long Beach","1981",2928
+"Long Beach","1982",2878
+"Long Beach","1983",3101
+"Long Beach","1984",2591
+"Long Beach","1985",2405
+"Long Beach","1986",2774
+"Long Beach","1987",2467
+"Long Beach","1988",2646
+"Long Beach","1989",3763
+"Long Beach","1990",4193
+"Long Beach","1991",4071
+"Long Beach","1992",3583
+"Long Beach","1993",3717
+"Long Beach","1994",3425
+"Long Beach","1995",2774
+"Long Beach","1996",2431
+"Long Beach","1997",1849
+"Long Beach","1998",1765
+"Long Beach","1999",1566
+"Long Beach","2000",1519
+"Long Beach","2001",1417
+"Long Beach","2002",1505
+"Long Beach","2003",1411
+"Long Beach","2004",1533
+"Long Beach","2005",1403
+"Long Beach","2006",1440
+"Long Beach","2007",1506
+"Long Beach","2008",1487
+"Long Beach","2009",1381
+"Long Beach","2010",1202
+"Long Beach","2011",1320
+"Long Beach","2012",1239
+"Long Beach","2013",1118
+"Long Beach","2014",889
+"Long Beach","2015",1054
+"Los Angeles","1975",14590
+"Los Angeles","1976",14225
+"Los Angeles","1977",15246
+"Los Angeles","1978",17105
+"Los Angeles","1979",20454
+"Los Angeles","1980",25637
+"Los Angeles","1981",28152
+"Los Angeles","1982",30029
+"Los Angeles","1983",29243
+"Los Angeles","1984",27323
+"Los Angeles","1985",27938
+"Los Angeles","1986",29930
+"Los Angeles","1987",26192
+"Los Angeles","1988",26182
+"Los Angeles","1989",31063
+"Los Angeles","1990",36098
+"Los Angeles","1991",39778
+"Los Angeles","1992",39508
+"Los Angeles","1993",38415
+"Los Angeles","1994",30817
+"Los Angeles","1995",29134
+"Los Angeles","1996",25189
+"Los Angeles","1997",20506
+"Los Angeles","1998",15835
+"Los Angeles","1999",14411
+"Los Angeles","2000",15527
+"Los Angeles","2001",17166
+"Los Angeles","2002",17197
+"Los Angeles","2003",16577
+"Los Angeles","2004",14181
+"Los Angeles","2005",13797
+"Los Angeles","2006",14353
+"Los Angeles","2007",13481
+"Los Angeles","2008",13422
+"Los Angeles","2009",12217
+"Los Angeles","2010",10924
+"Los Angeles","2011",10077
+"Los Angeles","2012",8983
+"Los Angeles","2013",7885
+"Los Angeles","2014",7949
+"Los Angeles","2015",8952
+"Los Angeles County","1975",3055
+"Los Angeles County","1976",2723
+"Los Angeles County","1977",2963
+"Los Angeles County","1978",2929
+"Los Angeles County","1979",3493
+"Los Angeles County","1980",3932
+"Los Angeles County","1981",4256
+"Los Angeles County","1982",4092
+"Los Angeles County","1983",3937
+"Los Angeles County","1984",3831
+"Los Angeles County","1985",3822
+"Los Angeles County","1986",3398
+"Los Angeles County","1987",3222
+"Los Angeles County","1988",3210
+"Los Angeles County","1989",4053
+"Los Angeles County","1990",4664
+"Los Angeles County","1991",4527
+"Los Angeles County","1992",5471
+"Los Angeles County","1993",4603
+"Los Angeles County","1994",4095
+"Los Angeles County","1995",3657
+"Los Angeles County","1996",3222
+"Los Angeles County","1997",2721
+"Los Angeles County","1998",2219
+"Los Angeles County","1999",2010
+"Los Angeles County","2000",1937
+"Los Angeles County","2001",1910
+"Los Angeles County","2002",1918
+"Los Angeles County","2003",1756
+"Los Angeles County","2004",1776
+"Los Angeles County","2005",1910
+"Los Angeles County","2006",2008
+"Los Angeles County","2007",2185
+"Los Angeles County","2008",1967
+"Los Angeles County","2009",1895
+"Los Angeles County","2010",1770
+"Los Angeles County","2011",1484
+"Los Angeles County","2012",1490
+"Los Angeles County","2013",1357
+"Los Angeles County","2014",1280
+"Los Angeles County","2015",1212
+"Louisville","1975",0
+"Louisville","1976",0
+"Louisville","1977",0
+"Louisville","1978",0
+"Louisville","1979",0
+"Louisville","1980",0
+"Louisville","1981",0
+"Louisville","1982",0
+"Louisville","1983",0
+"Louisville","1984",0
+"Louisville","1985",0
+"Louisville","1986",0
+"Louisville","1987",0
+"Louisville","1988",0
+"Louisville","1989",0
+"Louisville","1990",0
+"Louisville","1991",0
+"Louisville","1992",0
+"Louisville","1993",0
+"Louisville","1994",0
+"Louisville","1995",0
+"Louisville","1996",0
+"Louisville","1997",0
+"Louisville","1998",0
+"Louisville","1999",0
+"Louisville","2000",0
+"Louisville","2001",0
+"Louisville","2002",0
+"Louisville","2003",1455
+"Louisville","2004",1476
+"Louisville","2005",1822
+"Louisville","2006",1738
+"Louisville","2007",1910
+"Louisville","2008",1762
+"Louisville","2009",1570
+"Louisville","2010",1603
+"Louisville","2011",1643
+"Louisville","2012",1394
+"Louisville","2013",1427
+"Louisville","2014",1532
+"Louisville","2015",1545
+"Memphis","1975",2983
+"Memphis","1976",2429
+"Memphis","1977",2749
+"Memphis","1978",2897
+"Memphis","1979",3300
+"Memphis","1980",3846
+"Memphis","1981",4092
+"Memphis","1982",4404
+"Memphis","1983",4493
+"Memphis","1984",4763
+"Memphis","1985",5016
+"Memphis","1986",5819
+"Memphis","1987",4696
+"Memphis","1988",4462
+"Memphis","1989",3781
+"Memphis","1990",4152
+"Memphis","1991",4504
+"Memphis","1992",5341
+"Memphis","1993",5366
+"Memphis","1994",4988
+"Memphis","1995",5779
+"Memphis","1996",5970
+"Memphis","1997",5240
+"Memphis","1998",4172
+"Memphis","1999",3715
+"Memphis","2000",4087
+"Memphis","2001",4343
+"Memphis","2002",4244
+"Memphis","2003",4299
+"Memphis","2004",3773
+"Memphis","2005",4466
+"Memphis","2006",5313
+"Memphis","2007",4871
+"Memphis","2008",4788
+"Memphis","2009",4139
+"Memphis","2010",3237
+"Memphis","2011",3083
+"Memphis","2012",3384
+"Memphis","2013",3134
+"Memphis","2014",3285
+"Memphis","2015",3131
+"Mesa","1975",98
+"Mesa","1976",89
+"Mesa","1977",83
+"Mesa","1978",121
+"Mesa","1979",153
+"Mesa","1980",193
+"Mesa","1981",143
+"Mesa","1982",129
+"Mesa","1983",150
+"Mesa","1984",127
+"Mesa","1985",156
+"Mesa","1986",239
+"Mesa","1987",222
+"Mesa","1988",261
+"Mesa","1989",213
+"Mesa","1990",275
+"Mesa","1991",389
+"Mesa","1992",295
+"Mesa","1993",410
+"Mesa","1994",407
+"Mesa","1995",507
+"Mesa","1996",506
+"Mesa","1997",450
+"Mesa","1998",501
+"Mesa","1999",370
+"Mesa","2000",433
+"Mesa","2001",452
+"Mesa","2002",590
+"Mesa","2003",431
+"Mesa","2004",421
+"Mesa","2005",460
+"Mesa","2006",508
+"Mesa","2007",620
+"Mesa","2008",656
+"Mesa","2009",611
+"Mesa","2010",511
+"Mesa","2011",497
+"Mesa","2012",469
+"Mesa","2013",478
+"Mesa","2014",469
+"Mesa","2015",408
+"Miami","1975",2657
+"Miami","1976",2313
+"Miami","1977",2447
+"Miami","1978",2832
+"Miami","1979",3390
+"Miami","1980",6890
+"Miami","1981",6196
+"Miami","1982",5123
+"Miami","1983",4719
+"Miami","1984",5705
+"Miami","1985",5768
+"Miami","1986",5767
+"Miami","1987",5594
+"Miami","1988",6398
+"Miami","1989",7289
+"Miami","1990",8172
+"Miami","1991",8477
+"Miami","1992",7065
+"Miami","1993",7082
+"Miami","1994",5841
+"Miami","1995",5676
+"Miami","1996",5139
+"Miami","1997",4517
+"Miami","1998",3797
+"Miami","1999",3076
+"Miami","2000",3077
+"Miami","2001",2719
+"Miami","2002",2706
+"Miami","2003",2928
+"Miami","2004",2367
+"Miami","2005",2019
+"Miami","2006",2111
+"Miami","2007",2537
+"Miami","2008",2415
+"Miami","2009",2094
+"Miami","2010",1856
+"Miami","2011",2002
+"Miami","2012",2096
+"Miami","2013",2216
+"Miami","2014",1790
+"Miami","2015",1681
+"Miami-Dade County","1975",2426
+"Miami-Dade County","1976",1939
+"Miami-Dade County","1977",2161
+"Miami-Dade County","1978",2431
+"Miami-Dade County","1979",3232
+"Miami-Dade County","1980",5698
+"Miami-Dade County","1981",5526
+"Miami-Dade County","1982",5131
+"Miami-Dade County","1983",4800
+"Miami-Dade County","1984",4559
+"Miami-Dade County","1985",4604
+"Miami-Dade County","1986",5798
+"Miami-Dade County","1987",5850
+"Miami-Dade County","1988",5759
+"Miami-Dade County","1989",7877
+"Miami-Dade County","1990",8368
+"Miami-Dade County","1991",8635
+"Miami-Dade County","1992",7488
+"Miami-Dade County","1993",7878
+"Miami-Dade County","1994",7021
+"Miami-Dade County","1995",6406
+"Miami-Dade County","1996",6348
+"Miami-Dade County","1997",5273
+"Miami-Dade County","1998",4195
+"Miami-Dade County","1999",3478
+"Miami-Dade County","2000",3516
+"Miami-Dade County","2001",3260
+"Miami-Dade County","2002",3198
+"Miami-Dade County","2003",3019
+"Miami-Dade County","2004",2281
+"Miami-Dade County","2005",2341
+"Miami-Dade County","2006",2356
+"Miami-Dade County","2007",2679
+"Miami-Dade County","2008",2552
+"Miami-Dade County","2009",2314
+"Miami-Dade County","2010",1782
+"Miami-Dade County","2011",1848
+"Miami-Dade County","2012",1686
+"Miami-Dade County","2013",1861
+"Miami-Dade County","2014",1835
+"Miami-Dade County","2015",1661
+"Milwaukee","1975",1968
+"Milwaukee","1976",1621
+"Milwaukee","1977",1389
+"Milwaukee","1978",1212
+"Milwaukee","1979",1592
+"Milwaukee","1980",1796
+"Milwaukee","1981",1806
+"Milwaukee","1982",2087
+"Milwaukee","1983",2198
+"Milwaukee","1984",1871
+"Milwaukee","1985",2086
+"Milwaukee","1986",2207
+"Milwaukee","1987",1984
+"Milwaukee","1988",2111
+"Milwaukee","1989",2415
+"Milwaukee","1990",4146
+"Milwaukee","1991",4252
+"Milwaukee","1992",4334
+"Milwaukee","1993",4022
+"Milwaukee","1994",4017
+"Milwaukee","1995",3650
+"Milwaukee","1996",3353
+"Milwaukee","1997",3553
+"Milwaukee","1998",2970
+"Milwaukee","1999",3134
+"Milwaukee","2000",3021
+"Milwaukee","2001",2913
+"Milwaukee","2002",3197
+"Milwaukee","2003",2868
+"Milwaukee","2004",2551
+"Milwaukee","2005",2937
+"Milwaukee","2006",3606
+"Milwaukee","2007",3535
+"Milwaukee","2008",3244
+"Milwaukee","2009",3177
+"Milwaukee","2010",2943
+"Milwaukee","2011",3091
+"Milwaukee","2012",3097
+"Milwaukee","2013",3284
+"Milwaukee","2014",3555
+"Milwaukee","2015",3749
+"Minneapolis","1975",1838
+"Minneapolis","1976",1407
+"Minneapolis","1977",1652
+"Minneapolis","1978",1688
+"Minneapolis","1979",1988
+"Minneapolis","1980",2267
+"Minneapolis","1981",2296
+"Minneapolis","1982",2583
+"Minneapolis","1983",2001
+"Minneapolis","1984",1740
+"Minneapolis","1985",2326
+"Minneapolis","1986",2801
+"Minneapolis","1987",2866
+"Minneapolis","1988",2565
+"Minneapolis","1989",2524
+"Minneapolis","1990",2558
+"Minneapolis","1991",2610
+"Minneapolis","1992",3075
+"Minneapolis","1993",3178
+"Minneapolis","1994",3444
+"Minneapolis","1995",3550
+"Minneapolis","1996",3242
+"Minneapolis","1997",3308
+"Minneapolis","1998",2371
+"Minneapolis","1999",2096
+"Minneapolis","2000",1948
+"Minneapolis","2001",1943
+"Minneapolis","2002",1794
+"Minneapolis","2003",2192
+"Minneapolis","2004",2248
+"Minneapolis","2005",2584
+"Minneapolis","2006",3028
+"Minneapolis","2007",2520
+"Minneapolis","2008",2005
+"Minneapolis","2009",1663
+"Minneapolis","2010",1596
+"Minneapolis","2011",1589
+"Minneapolis","2012",1719
+"Minneapolis","2013",1856
+"Minneapolis","2014",1871
+"Minneapolis","2015",1896
+"Montgomery County","1975",578
+"Montgomery County","1976",564
+"Montgomery County","1977",484
+"Montgomery County","1978",530
+"Montgomery County","1979",560
+"Montgomery County","1980",798
+"Montgomery County","1981",872
+"Montgomery County","1982",682
+"Montgomery County","1983",625
+"Montgomery County","1984",591
+"Montgomery County","1985",675
+"Montgomery County","1986",648
+"Montgomery County","1987",683
+"Montgomery County","1988",782
+"Montgomery County","1989",835
+"Montgomery County","1990",807
+"Montgomery County","1991",979
+"Montgomery County","1992",930
+"Montgomery County","1993",842
+"Montgomery County","1994",869
+"Montgomery County","1995",1015
+"Montgomery County","1996",983
+"Montgomery County","1997",841
+"Montgomery County","1998",712
+"Montgomery County","1999",654
+"Montgomery County","2000",708
+"Montgomery County","2001",818
+"Montgomery County","2002",877
+"Montgomery County","2003",1004
+"Montgomery County","2004",789
+"Montgomery County","2005",1035
+"Montgomery County","2006",1166
+"Montgomery County","2007",1096
+"Montgomery County","2008",1100
+"Montgomery County","2009",992
+"Montgomery County","2010",911
+"Montgomery County","2011",840
+"Montgomery County","2012",829
+"Montgomery County","2013",758
+"Montgomery County","2014",620
+"Montgomery County","2015",606
+"Nashville","1975",2003
+"Nashville","1976",1722
+"Nashville","1977",1688
+"Nashville","1978",1772
+"Nashville","1979",1716
+"Nashville","1980",2027
+"Nashville","1981",1594
+"Nashville","1982",1662
+"Nashville","1983",1713
+"Nashville","1984",1438
+"Nashville","1985",1588
+"Nashville","1986",1953
+"Nashville","1987",2350
+"Nashville","1988",1954
+"Nashville","1989",1608
+"Nashville","1990",2164
+"Nashville","1991",2648
+"Nashville","1992",2668
+"Nashville","1993",2709
+"Nashville","1994",2652
+"Nashville","1995",2675
+"Nashville","1996",2910
+"Nashville","1997",2583
+"Nashville","1998",2223
+"Nashville","1999",1960
+"Nashville","2000",2250
+"Nashville","2001",2504
+"Nashville","2002",2080
+"Nashville","2003",2197
+"Nashville","2004",2125
+"Nashville","2005",2440
+"Nashville","2006",2425
+"Nashville","2007",2516
+"Nashville","2008",2377
+"Nashville","2009",1971
+"Nashville","2010",1802
+"Nashville","2011",1889
+"Nashville","2012",1716
+"Nashville","2013",1613
+"Nashville","2014",1529
+"Nashville","2015",1847
+"Nassau County","1975",686
+"Nassau County","1976",659
+"Nassau County","1977",734
+"Nassau County","1978",676
+"Nassau County","1979",773
+"Nassau County","1980",926
+"Nassau County","1981",1223
+"Nassau County","1982",1139
+"Nassau County","1983",951
+"Nassau County","1984",1051
+"Nassau County","1985",1000
+"Nassau County","1986",1006
+"Nassau County","1987",1010
+"Nassau County","1988",1032
+"Nassau County","1989",962
+"Nassau County","1990",1014
+"Nassau County","1991",1181
+"Nassau County","1992",1381
+"Nassau County","1993",1129
+"Nassau County","1994",1007
+"Nassau County","1995",877
+"Nassau County","1996",835
+"Nassau County","1997",752
+"Nassau County","1998",678
+"Nassau County","1999",815
+"Nassau County","2000",705
+"Nassau County","2001",753
+"Nassau County","2002",749
+"Nassau County","2003",774
+"Nassau County","2004",724
+"Nassau County","2005",833
+"Nassau County","2006",866
+"Nassau County","2007",748
+"Nassau County","2008",748
+"Nassau County","2009",754
+"Nassau County","2010",672
+"Nassau County","2011",713
+"Nassau County","2012",723
+"Nassau County","2013",706
+"Nassau County","2014",550
+"Nassau County","2015",555
+"New Orleans","1975",3596
+"New Orleans","1976",2600
+"New Orleans","1977",3279
+"New Orleans","1978",4164
+"New Orleans","1979",5276
+"New Orleans","1980",4647
+"New Orleans","1981",4950
+"New Orleans","1982",5106
+"New Orleans","1983",4550
+"New Orleans","1984",4705
+"New Orleans","1985",4142
+"New Orleans","1986",5165
+"New Orleans","1987",3786
+"New Orleans","1988",4729
+"New Orleans","1989",5449
+"New Orleans","1990",6048
+"New Orleans","1991",5969
+"New Orleans","1992",5341
+"New Orleans","1993",5179
+"New Orleans","1994",4822
+"New Orleans","1995",5349
+"New Orleans","1996",5700
+"New Orleans","1997",3972
+"New Orleans","1998",2965
+"New Orleans","1999",2733
+"New Orleans","2000",2421
+"New Orleans","2001",2778
+"New Orleans","2002",1994
+"New Orleans","2003",2071
+"New Orleans","2004",1836
+"New Orleans","2005",756
+"New Orleans","2006",761
+"New Orleans","2007",1154
+"New Orleans","2008",1085
+"New Orleans","2009",932
+"New Orleans","2010",953
+"New Orleans","2011",1059
+"New Orleans","2012",1065
+"New Orleans","2013",1138
+"New Orleans","2014",1470
+"New Orleans","2015",1497
+"New York City","1975",83190
+"New York City","1976",86183
+"New York City","1977",74404
+"New York City","1978",74029
+"New York City","1979",82572
+"New York City","1980",100550
+"New York City","1981",107475
+"New York City","1982",95944
+"New York City","1983",84043
+"New York City","1984",79541
+"New York City","1985",79532
+"New York City","1986",80827
+"New York City","1987",78890
+"New York City","1988",86578
+"New York City","1989",93377
+"New York City","1990",100280
+"New York City","1991",98512
+"New York City","1992",91239
+"New York City","1993",86001
+"New York City","1994",72540
+"New York City","1995",59278
+"New York City","1996",49672
+"New York City","1997",44708
+"New York City","1998",39359
+"New York City","1999",36091
+"New York City","2000",32558
+"New York City","2001",28202
+"New York City","2002",27229
+"New York City","2003",25989
+"New York City","2004",24373
+"New York City","2005",24722
+"New York City","2006",23511
+"New York City","2007",21787
+"New York City","2008",22186
+"New York City","2009",18597
+"New York City","2010",19608
+"New York City","2011",19773
+"New York City","2012",20201
+"New York City","2013",19170
+"New York City","2014",16581
+"New York City","2015",16946
+"Newark","1975",4273
+"Newark","1976",3834
+"Newark","1977",3203
+"Newark","1978",3682
+"Newark","1979",6100
+"Newark","1980",6845
+"Newark","1981",7778
+"Newark","1982",6393
+"Newark","1983",5287
+"Newark","1984",4660
+"Newark","1985",5320
+"Newark","1986",5464
+"Newark","1987",4230
+"Newark","1988",4424
+"Newark","1989",5310
+"Newark","1990",6021
+"Newark","1991",5201
+"Newark","1992",5389
+"Newark","1993",5892
+"Newark","1994",5775
+"Newark","1995",5480
+"Newark","1996",4219
+"Newark","1997",3442
+"Newark","1998",2846
+"Newark","1999",2432
+"Newark","2000",1923
+"Newark","2001",1837
+"Newark","2002",1567
+"Newark","2003",1304
+"Newark","2004",1345
+"Newark","2005",1250
+"Newark","2006",1288
+"Newark","2007",1104
+"Newark","2008",1387
+"Newark","2009",1319
+"Newark","2010",1604
+"Newark","2011",1977
+"Newark","2012",1976
+"Newark","2013",2433
+"Newark","2014",1922
+"Newark","2015",1793
+"Oakland","1975",3185
+"Oakland","1976",2894
+"Oakland","1977",3037
+"Oakland","1978",2774
+"Oakland","1979",3072
+"Oakland","1980",4248
+"Oakland","1981",3836
+"Oakland","1982",3194
+"Oakland","1983",3289
+"Oakland","1984",3170
+"Oakland","1985",3316
+"Oakland","1986",3787
+"Oakland","1987",3176
+"Oakland","1988",3141
+"Oakland","1989",3224
+"Oakland","1990",3230
+"Oakland","1991",3933
+"Oakland","1992",4610
+"Oakland","1993",4559
+"Oakland","1994",3877
+"Oakland","1995",3880
+"Oakland","1996",3622
+"Oakland","1997",3482
+"Oakland","1998",2651
+"Oakland","1999",2190
+"Oakland","2000",1929
+"Oakland","2001",2125
+"Oakland","2002",2452
+"Oakland","2003",2474
+"Oakland","2004",2190
+"Oakland","2005",2672
+"Oakland","2006",3534
+"Oakland","2007",3470
+"Oakland","2008",3323
+"Oakland","2009",2898
+"Oakland","2010",2917
+"Oakland","2011",3365
+"Oakland","2012",4338
+"Oakland","2013",4922
+"Oakland","2014",3481
+"Oakland","2015",3290
+"Oklahoma City","1975",992
+"Oklahoma City","1976",770
+"Oklahoma City","1977",775
+"Oklahoma City","1978",1023
+"Oklahoma City","1979",1188
+"Oklahoma City","1980",1251
+"Oklahoma City","1981",1491
+"Oklahoma City","1982",1801
+"Oklahoma City","1983",1917
+"Oklahoma City","1984",1603
+"Oklahoma City","1985",1585
+"Oklahoma City","1986",1484
+"Oklahoma City","1987",1322
+"Oklahoma City","1988",1365
+"Oklahoma City","1989",1617
+"Oklahoma City","1990",1398
+"Oklahoma City","1991",1499
+"Oklahoma City","1992",1836
+"Oklahoma City","1993",1724
+"Oklahoma City","1994",1748
+"Oklahoma City","1995",1603
+"Oklahoma City","1996",1478
+"Oklahoma City","1997",1397
+"Oklahoma City","1998",1272
+"Oklahoma City","1999",1064
+"Oklahoma City","2000",990
+"Oklahoma City","2001",1090
+"Oklahoma City","2002",1169
+"Oklahoma City","2003",1381
+"Oklahoma City","2004",1173
+"Oklahoma City","2005",1193
+"Oklahoma City","2006",1179
+"Oklahoma City","2007",1397
+"Oklahoma City","2008",1524
+"Oklahoma City","2009",1249
+"Oklahoma City","2010",1112
+"Oklahoma City","2011",1232
+"Oklahoma City","2012",1209
+"Oklahoma City","2013",1191
+"Oklahoma City","2014",1126
+"Oklahoma City","2015",1192
+"Omaha","1975",1211
+"Omaha","1976",788
+"Omaha","1977",809
+"Omaha","1978",878
+"Omaha","1979",954
+"Omaha","1980",1053
+"Omaha","1981",899
+"Omaha","1982",743
+"Omaha","1983",622
+"Omaha","1984",530
+"Omaha","1985",591
+"Omaha","1986",627
+"Omaha","1987",570
+"Omaha","1988",710
+"Omaha","1989",639
+"Omaha","1990",604
+"Omaha","1991",634
+"Omaha","1992",400
+"Omaha","1993",752
+"Omaha","1994",918
+"Omaha","1995",808
+"Omaha","1996",782
+"Omaha","1997",818
+"Omaha","1998",948
+"Omaha","1999",960
+"Omaha","2000",875
+"Omaha","2001",868
+"Omaha","2002",998
+"Omaha","2003",896
+"Omaha","2004",824
+"Omaha","2005",682
+"Omaha","2006",848
+"Omaha","2007",818
+"Omaha","2008",949
+"Omaha","2009",892
+"Omaha","2010",723
+"Omaha","2011",696
+"Omaha","2012",815
+"Omaha","2013",718
+"Omaha","2014",723
+"Omaha","2015",655
+"Orlando","1975",304
+"Orlando","1976",327
+"Orlando","1977",274
+"Orlando","1978",410
+"Orlando","1979",496
+"Orlando","1980",742
+"Orlando","1981",885
+"Orlando","1982",809
+"Orlando","1983",768
+"Orlando","1984",802
+"Orlando","1985",902
+"Orlando","1986",1229
+"Orlando","1987",1029
+"Orlando","1988",1229
+"Orlando","1989",1189
+"Orlando","1990",1449
+"Orlando","1991",759
+"Orlando","1992",808
+"Orlando","1993",1107
+"Orlando","1994",1095
+"Orlando","1995",1048
+"Orlando","1996",1080
+"Orlando","1997",1262
+"Orlando","1998",1123
+"Orlando","1999",1096
+"Orlando","2000",1044
+"Orlando","2001",1086
+"Orlando","2002",1034
+"Orlando","2003",849
+"Orlando","2004",962
+"Orlando","2005",1204
+"Orlando","2006",1528
+"Orlando","2007",1534
+"Orlando","2008",1320
+"Orlando","2009",767
+"Orlando","2010",672
+"Orlando","2011",697
+"Orlando","2012",603
+"Orlando","2013",573
+"Orlando","2014",620
+"Orlando","2015",522
+"Philadelphia","1975",10405
+"Philadelphia","1976",7786
+"Philadelphia","1977",6999
+"Philadelphia","1978",7069
+"Philadelphia","1979",8838
+"Philadelphia","1980",10883
+"Philadelphia","1981",10816
+"Philadelphia","1982",10604
+"Philadelphia","1983",10744
+"Philadelphia","1984",9365
+"Philadelphia","1985",9381
+"Philadelphia","1986",9647
+"Philadelphia","1987",9302
+"Philadelphia","1988",8858
+"Philadelphia","1989",10233
+"Philadelphia","1990",12806
+"Philadelphia","1991",13921
+"Philadelphia","1992",11681
+"Philadelphia","1993",11531
+"Philadelphia","1994",12706
+"Philadelphia","1995",13612
+"Philadelphia","1996",13188
+"Philadelphia","1997",11938
+"Philadelphia","1998",11435
+"Philadelphia","1999",11104
+"Philadelphia","2000",10425
+"Philadelphia","2001",9604
+"Philadelphia","2002",8869
+"Philadelphia","2003",9617
+"Philadelphia","2004",9757
+"Philadelphia","2005",10069
+"Philadelphia","2006",10971
+"Philadelphia","2007",10258
+"Philadelphia","2008",9618
+"Philadelphia","2009",9037
+"Philadelphia","2010",8363
+"Philadelphia","2011",8246
+"Philadelphia","2012",7984
+"Philadelphia","2013",7562
+"Philadelphia","2014",6970
+"Philadelphia","2015",6765
+"Phoenix","1975",1938
+"Phoenix","1976",1485
+"Phoenix","1977",1594
+"Phoenix","1978",2031
+"Phoenix","1979",2337
+"Phoenix","1980",3037
+"Phoenix","1981",2696
+"Phoenix","1982",2402
+"Phoenix","1983",1971
+"Phoenix","1984",2106
+"Phoenix","1985",2425
+"Phoenix","1986",2972
+"Phoenix","1987",2287
+"Phoenix","1988",2518
+"Phoenix","1989",2615
+"Phoenix","1990",3383
+"Phoenix","1991",3448
+"Phoenix","1992",3140
+"Phoenix","1993",3437
+"Phoenix","1994",3451
+"Phoenix","1995",3693
+"Phoenix","1996",3757
+"Phoenix","1997",3725
+"Phoenix","1998",3764
+"Phoenix","1999",3819
+"Phoenix","2000",3763
+"Phoenix","2001",4629
+"Phoenix","2002",4075
+"Phoenix","2003",3676
+"Phoenix","2004",3723
+"Phoenix","2005",4237
+"Phoenix","2006",4363
+"Phoenix","2007",4942
+"Phoenix","2008",4825
+"Phoenix","2009",3757
+"Phoenix","2010",3250
+"Phoenix","2011",3324
+"Phoenix","2012",3516
+"Phoenix","2013",3233
+"Phoenix","2014",2952
+"Phoenix","2015",3020
+"Pittsburgh","1975",2744
+"Pittsburgh","1976",2419
+"Pittsburgh","1977",2539
+"Pittsburgh","1978",3046
+"Pittsburgh","1979",2752
+"Pittsburgh","1980",3252
+"Pittsburgh","1981",4288
+"Pittsburgh","1982",3841
+"Pittsburgh","1983",4198
+"Pittsburgh","1984",3212
+"Pittsburgh","1985",3016
+"Pittsburgh","1986",3253
+"Pittsburgh","1987",2834
+"Pittsburgh","1988",2537
+"Pittsburgh","1989",2471
+"Pittsburgh","1990",2319
+"Pittsburgh","1991",2704
+"Pittsburgh","1992",2989
+"Pittsburgh","1993",2784
+"Pittsburgh","1994",2469
+"Pittsburgh","1995",2077
+"Pittsburgh","1996",1565
+"Pittsburgh","1997",1543
+"Pittsburgh","1998",1578
+"Pittsburgh","1999",1581
+"Pittsburgh","2000",1585
+"Pittsburgh","2001",1384
+"Pittsburgh","2002",1616
+"Pittsburgh","2003",1635
+"Pittsburgh","2004",1602
+"Pittsburgh","2005",1617
+"Pittsburgh","2006",1722
+"Pittsburgh","2007",1596
+"Pittsburgh","2008",1541
+"Pittsburgh","2009",1367
+"Pittsburgh","2010",1190
+"Pittsburgh","2011",1126
+"Pittsburgh","2012",1134
+"Pittsburgh","2013",956
+"Pittsburgh","2014",986
+"Pittsburgh","2015",858
+"Portland","1975",1843
+"Portland","1976",1913
+"Portland","1977",1703
+"Portland","1978",1774
+"Portland","1979",1787
+"Portland","1980",2249
+"Portland","1981",3072
+"Portland","1982",2811
+"Portland","1983",2964
+"Portland","1984",3042
+"Portland","1985",3508
+"Portland","1986",3887
+"Portland","1987",3667
+"Portland","1988",3632
+"Portland","1989",2667
+"Portland","1990",2541
+"Portland","1991",2723
+"Portland","1992",2686
+"Portland","1993",2305
+"Portland","1994",2344
+"Portland","1995",2298
+"Portland","1996",2057
+"Portland","1997",1948
+"Portland","1998",1639
+"Portland","1999",1418
+"Portland","2000",1446
+"Portland","2001",1267
+"Portland","2002",1294
+"Portland","2003",1367
+"Portland","2004",1287
+"Portland","2005",1137
+"Portland","2006",1297
+"Portland","2007",1289
+"Portland","2008",1132
+"Portland","2009",1037
+"Portland","2010",1005
+"Portland","2011",917
+"Portland","2012",950
+"Portland","2013",917
+"Portland","2014",847
+"Portland","2015",0
+"Prince George's County","1975",2147
+"Prince George's County","1976",1941
+"Prince George's County","1977",1933
+"Prince George's County","1978",1998
+"Prince George's County","1979",2276
+"Prince George's County","1980",2888
+"Prince George's County","1981",3345
+"Prince George's County","1982",2682
+"Prince George's County","1983",2453
+"Prince George's County","1984",2094
+"Prince George's County","1985",2211
+"Prince George's County","1986",2116
+"Prince George's County","1987",521
+"Prince George's County","1988",2544
+"Prince George's County","1989",3141
+"Prince George's County","1990",3606
+"Prince George's County","1991",3796
+"Prince George's County","1992",3310
+"Prince George's County","1993",3875
+"Prince George's County","1994",3498
+"Prince George's County","1995",3812
+"Prince George's County","1996",3466
+"Prince George's County","1997",2813
+"Prince George's County","1998",2722
+"Prince George's County","1999",2143
+"Prince George's County","2000",2540
+"Prince George's County","2001",3386
+"Prince George's County","2002",3505
+"Prince George's County","2003",3553
+"Prince George's County","2004",3528
+"Prince George's County","2005",4447
+"Prince George's County","2006",3341
+"Prince George's County","2007",3092
+"Prince George's County","2008",2954
+"Prince George's County","2009",2634
+"Prince George's County","2010",2472
+"Prince George's County","2011",2048
+"Prince George's County","2012",1996
+"Prince George's County","2013",1583
+"Prince George's County","2014",1461
+"Prince George's County","2015",1359
+"Raleigh","1975",221
+"Raleigh","1976",138
+"Raleigh","1977",120
+"Raleigh","1978",173
+"Raleigh","1979",202
+"Raleigh","1980",260
+"Raleigh","1981",288
+"Raleigh","1982",322
+"Raleigh","1983",289
+"Raleigh","1984",306
+"Raleigh","1985",307
+"Raleigh","1986",339
+"Raleigh","1987",384
+"Raleigh","1988",335
+"Raleigh","1989",380
+"Raleigh","1990",388
+"Raleigh","1991",652
+"Raleigh","1992",887
+"Raleigh","1993",795
+"Raleigh","1994",825
+"Raleigh","1995",648
+"Raleigh","1996",732
+"Raleigh","1997",727
+"Raleigh","1998",802
+"Raleigh","1999",739
+"Raleigh","2000",769
+"Raleigh","2001",804
+"Raleigh","2002",697
+"Raleigh","2003",748
+"Raleigh","2004",661
+"Raleigh","2005",762
+"Raleigh","2006",782
+"Raleigh","2007",835
+"Raleigh","2008",1025
+"Raleigh","2009",832
+"Raleigh","2010",643
+"Raleigh","2011",680
+"Raleigh","2012",665
+"Raleigh","2013",605
+"Raleigh","2014",679
+"Raleigh","2015",678
+"Sacramento","1975",1128
+"Sacramento","1976",1187
+"Sacramento","1977",1276
+"Sacramento","1978",1582
+"Sacramento","1979",1640
+"Sacramento","1980",1604
+"Sacramento","1981",1833
+"Sacramento","1982",1543
+"Sacramento","1983",1553
+"Sacramento","1984",1645
+"Sacramento","1985",2083
+"Sacramento","1986",2214
+"Sacramento","1987",1841
+"Sacramento","1988",1612
+"Sacramento","1989",1654
+"Sacramento","1990",1790
+"Sacramento","1991",2280
+"Sacramento","1992",2322
+"Sacramento","1993",2310
+"Sacramento","1994",2292
+"Sacramento","1995",2129
+"Sacramento","1996",1874
+"Sacramento","1997",1851
+"Sacramento","1998",1689
+"Sacramento","1999",1450
+"Sacramento","2000",1412
+"Sacramento","2001",1440
+"Sacramento","2002",1734
+"Sacramento","2003",1630
+"Sacramento","2004",1914
+"Sacramento","2005",2018
+"Sacramento","2006",2188
+"Sacramento","2007",2009
+"Sacramento","2008",1761
+"Sacramento","2009",1606
+"Sacramento","2010",1491
+"Sacramento","2011",1162
+"Sacramento","2012",1211
+"Sacramento","2013",1158
+"Sacramento","2014",1000
+"Sacramento","2015",1174
+"Salt Lake City","1975",582
+"Salt Lake City","1976",482
+"Salt Lake City","1977",479
+"Salt Lake City","1978",451
+"Salt Lake City","1979",495
+"Salt Lake City","1980",528
+"Salt Lake City","1981",587
+"Salt Lake City","1982",656
+"Salt Lake City","1983",523
+"Salt Lake City","1984",490
+"Salt Lake City","1985",446
+"Salt Lake City","1986",506
+"Salt Lake City","1987",482
+"Salt Lake City","1988",487
+"Salt Lake City","1989",484
+"Salt Lake City","1990",539
+"Salt Lake City","1991",474
+"Salt Lake City","1992",470
+"Salt Lake City","1993",498
+"Salt Lake City","1994",502
+"Salt Lake City","1995",564
+"Salt Lake City","1996",591
+"Salt Lake City","1997",620
+"Salt Lake City","1998",598
+"Salt Lake City","1999",485
+"Salt Lake City","2000",576
+"Salt Lake City","2001",481
+"Salt Lake City","2002",478
+"Salt Lake City","2003",504
+"Salt Lake City","2004",464
+"Salt Lake City","2005",419
+"Salt Lake City","2006",508
+"Salt Lake City","2007",504
+"Salt Lake City","2008",486
+"Salt Lake City","2009",411
+"Salt Lake City","2010",359
+"Salt Lake City","2011",342
+"Salt Lake City","2012",317
+"Salt Lake City","2013",421
+"Salt Lake City","2014",449
+"Salt Lake City","2015",469
+"San Antonio","1975",1730
+"San Antonio","1976",1262
+"San Antonio","1977",1460
+"San Antonio","1978",1438
+"San Antonio","1979",1689
+"San Antonio","1980",1742
+"San Antonio","1981",1835
+"San Antonio","1982",2195
+"San Antonio","1983",2403
+"San Antonio","1984",2657
+"San Antonio","1985",2683
+"San Antonio","1986",3262
+"San Antonio","1987",3253
+"San Antonio","1988",2859
+"San Antonio","1989",2710
+"San Antonio","1990",2864
+"San Antonio","1991",3778
+"San Antonio","1992",3485
+"San Antonio","1993",2979
+"San Antonio","1994",2781
+"San Antonio","1995",2345
+"San Antonio","1996",2350
+"San Antonio","1997",2036
+"San Antonio","1998",1780
+"San Antonio","1999",1674
+"San Antonio","2000",1699
+"San Antonio","2001",2146
+"San Antonio","2002",2114
+"San Antonio","2003",2060
+"San Antonio","2004",2127
+"San Antonio","2005",2154
+"San Antonio","2006",2321
+"San Antonio","2007",2445
+"San Antonio","2008",2743
+"San Antonio","2009",2683
+"San Antonio","2010",2360
+"San Antonio","2011",1785
+"San Antonio","2012",1864
+"San Antonio","2013",2192
+"San Antonio","2014",1777
+"San Antonio","2015",1986
+"San Diego","1975",2199
+"San Diego","1976",2271
+"San Diego","1977",2481
+"San Diego","1978",2530
+"San Diego","1979",2884
+"San Diego","1980",2986
+"San Diego","1981",3323
+"San Diego","1982",3142
+"San Diego","1983",2550
+"San Diego","1984",2616
+"San Diego","1985",3062
+"San Diego","1986",3985
+"San Diego","1987",3452
+"San Diego","1988",3204
+"San Diego","1989",3585
+"San Diego","1990",4331
+"San Diego","1991",5331
+"San Diego","1992",5321
+"San Diego","1993",4651
+"San Diego","1994",3845
+"San Diego","1995",3244
+"San Diego","1996",2998
+"San Diego","1997",2604
+"San Diego","1998",2121
+"San Diego","1999",1812
+"San Diego","2000",1777
+"San Diego","2001",1729
+"San Diego","2002",1627
+"San Diego","2003",1626
+"San Diego","2004",1650
+"San Diego","2005",1862
+"San Diego","2006",2164
+"San Diego","2007",2095
+"San Diego","2008",2019
+"San Diego","2009",1905
+"San Diego","2010",1636
+"San Diego","2011",1456
+"San Diego","2012",1517
+"San Diego","2013",1456
+"San Diego","2014",1318
+"San Diego","2015",1378
+"San Francisco","1975",5687
+"San Francisco","1976",6628
+"San Francisco","1977",5423
+"San Francisco","1978",6509
+"San Francisco","1979",6694
+"San Francisco","1980",7527
+"San Francisco","1981",7386
+"San Francisco","1982",7153
+"San Francisco","1983",5945
+"San Francisco","1984",5222
+"San Francisco","1985",5111
+"San Francisco","1986",5085
+"San Francisco","1987",4654
+"San Francisco","1988",4867
+"San Francisco","1989",5005
+"San Francisco","1990",7053
+"San Francisco","1991",7020
+"San Francisco","1992",8278
+"San Francisco","1993",8454
+"San Francisco","1994",6624
+"San Francisco","1995",6469
+"San Francisco","1996",5539
+"San Francisco","1997",4606
+"San Francisco","1998",3927
+"San Francisco","1999",3475
+"San Francisco","2000",3456
+"San Francisco","2001",3808
+"San Francisco","2002",3208
+"San Francisco","2003",3065
+"San Francisco","2004",3041
+"San Francisco","2005",3078
+"San Francisco","2006",3858
+"San Francisco","2007",3771
+"San Francisco","2008",4108
+"San Francisco","2009",3423
+"San Francisco","2010",3180
+"San Francisco","2011",3088
+"San Francisco","2012",3484
+"San Francisco","2013",4202
+"San Francisco","2014",3224
+"San Francisco","2015",3610
+"San Jose","1975",887
+"San Jose","1976",967
+"San Jose","1977",1031
+"San Jose","1978",1155
+"San Jose","1979",1358
+"San Jose","1980",1714
+"San Jose","1981",2070
+"San Jose","1982",1701
+"San Jose","1983",1461
+"San Jose","1984",1175
+"San Jose","1985",1237
+"San Jose","1986",1126
+"San Jose","1987",944
+"San Jose","1988",948
+"San Jose","1989",995
+"San Jose","1990",1034
+"San Jose","1991",1328
+"San Jose","1992",1231
+"San Jose","1993",1186
+"San Jose","1994",1109
+"San Jose","1995",1209
+"San Jose","1996",1098
+"San Jose","1997",908
+"San Jose","1998",901
+"San Jose","1999",726
+"San Jose","2000",677
+"San Jose","2001",712
+"San Jose","2002",827
+"San Jose","2003",815
+"San Jose","2004",785
+"San Jose","2005",884
+"San Jose","2006",1030
+"San Jose","2007",1068
+"San Jose","2008",1124
+"San Jose","2009",1025
+"San Jose","2010",976
+"San Jose","2011",1101
+"San Jose","2012",1208
+"San Jose","2013",1095
+"San Jose","2014",1072
+"San Jose","2015",1140
+"Seattle","1975",2103
+"Seattle","1976",2163
+"Seattle","1977",1764
+"Seattle","1978",2257
+"Seattle","1979",2071
+"Seattle","1980",2253
+"Seattle","1981",2344
+"Seattle","1982",2271
+"Seattle","1983",2032
+"Seattle","1984",2386
+"Seattle","1985",2843
+"Seattle","1986",2792
+"Seattle","1987",2959
+"Seattle","1988",2709
+"Seattle","1989",2448
+"Seattle","1990",2695
+"Seattle","1991",2761
+"Seattle","1992",2577
+"Seattle","1993",2670
+"Seattle","1994",2536
+"Seattle","1995",2213
+"Seattle","1996",1963
+"Seattle","1997",2081
+"Seattle","1998",1728
+"Seattle","1999",1642
+"Seattle","2000",1653
+"Seattle","2001",1594
+"Seattle","2002",1576
+"Seattle","2003",1509
+"Seattle","2004",1588
+"Seattle","2005",1607
+"Seattle","2006",1667
+"Seattle","2007",1522
+"Seattle","2008",1612
+"Seattle","2009",1792
+"Seattle","2010",1429
+"Seattle","2011",1418
+"Seattle","2012",1436
+"Seattle","2013",1602
+"Seattle","2014",1567
+"Seattle","2015",1532
+"St. Louis","1975",6288
+"St. Louis","1976",5303
+"St. Louis","1977",4943
+"St. Louis","1978",5025
+"St. Louis","1979",5386
+"St. Louis","1980",5938
+"St. Louis","1981",5365
+"St. Louis","1982",4899
+"St. Louis","1983",3840
+"St. Louis","1984",3112
+"St. Louis","1985",3136
+"St. Louis","1986",3326
+"St. Louis","1987",3296
+"St. Louis","1988",3327
+"St. Louis","1989",4220
+"St. Louis","1990",4708
+"St. Louis","1991",5294
+"St. Louis","1992",4936
+"St. Louis","1993",6223
+"St. Louis","1994",6025
+"St. Louis","1995",5136
+"St. Louis","1996",4086
+"St. Louis","1997",3572
+"St. Louis","1998",3500
+"St. Louis","1999",2792
+"St. Louis","2000",3224
+"St. Louis","2001",3140
+"St. Louis","2002",2818
+"St. Louis","2003",2786
+"St. Louis","2004",2632
+"St. Louis","2005",2965
+"St. Louis","2006",3147
+"St. Louis","2007",2761
+"St. Louis","2008",2634
+"St. Louis","2009",2721
+"St. Louis","2010",2125
+"St. Louis","2011",2127
+"St. Louis","2012",1778
+"St. Louis","2013",1457
+"St. Louis","2014",1562
+"St. Louis","2015",1790
+"Suffolk County","1975",531
+"Suffolk County","1976",979
+"Suffolk County","1977",1018
+"Suffolk County","1978",1105
+"Suffolk County","1979",1111
+"Suffolk County","1980",1348
+"Suffolk County","1981",820
+"Suffolk County","1982",1002
+"Suffolk County","1983",983
+"Suffolk County","1984",750
+"Suffolk County","1985",1181
+"Suffolk County","1986",1188
+"Suffolk County","1987",1251
+"Suffolk County","1988",1110
+"Suffolk County","1989",1286
+"Suffolk County","1990",1419
+"Suffolk County","1991",1683
+"Suffolk County","1992",1773
+"Suffolk County","1993",1697
+"Suffolk County","1994",1226
+"Suffolk County","1995",957
+"Suffolk County","1996",946
+"Suffolk County","1997",893
+"Suffolk County","1998",853
+"Suffolk County","1999",821
+"Suffolk County","2000",899
+"Suffolk County","2001",960
+"Suffolk County","2002",907
+"Suffolk County","2003",958
+"Suffolk County","2004",845
+"Suffolk County","2005",1037
+"Suffolk County","2006",1027
+"Suffolk County","2007",874
+"Suffolk County","2008",890
+"Suffolk County","2009",960
+"Suffolk County","2010",814
+"Suffolk County","2011",748
+"Suffolk County","2012",681
+"Suffolk County","2013",620
+"Suffolk County","2014",567
+"Suffolk County","2015",677
+"Tampa","1975",1394
+"Tampa","1976",1025
+"Tampa","1977",1062
+"Tampa","1978",1080
+"Tampa","1979",1312
+"Tampa","1980",1877
+"Tampa","1981",2314
+"Tampa","1982",1842
+"Tampa","1983",1529
+"Tampa","1984",1843
+"Tampa","1985",2657
+"Tampa","1986",3512
+"Tampa","1987",3427
+"Tampa","1988",0
+"Tampa","1989",3137
+"Tampa","1990",3163
+"Tampa","1991",3010
+"Tampa","1992",2999
+"Tampa","1993",2965
+"Tampa","1994",3378
+"Tampa","1995",2626
+"Tampa","1996",2671
+"Tampa","1997",2539
+"Tampa","1998",2464
+"Tampa","1999",2321
+"Tampa","2000",2183
+"Tampa","2001",2359
+"Tampa","2002",2334
+"Tampa","2003",1769
+"Tampa","2004",1413
+"Tampa","2005",1160
+"Tampa","2006",1211
+"Tampa","2007",1205
+"Tampa","2008",1056
+"Tampa","2009",909
+"Tampa","2010",684
+"Tampa","2011",587
+"Tampa","2012",573
+"Tampa","2013",580
+"Tampa","2014",514
+"Tampa","2015",671
+"Tucson","1975",707
+"Tucson","1976",554
+"Tucson","1977",550
+"Tucson","1978",584
+"Tucson","1979",697
+"Tucson","1980",655
+"Tucson","1981",872
+"Tucson","1982",910
+"Tucson","1983",766
+"Tucson","1984",809
+"Tucson","1985",1051
+"Tucson","1986",1042
+"Tucson","1987",911
+"Tucson","1988",768
+"Tucson","1989",686
+"Tucson","1990",902
+"Tucson","1991",889
+"Tucson","1992",970
+"Tucson","1993",894
+"Tucson","1994",1012
+"Tucson","1995",1192
+"Tucson","1996",1288
+"Tucson","1997",1446
+"Tucson","1998",1485
+"Tucson","1999",1281
+"Tucson","2000",1444
+"Tucson","2001",1698
+"Tucson","2002",1350
+"Tucson","2003",1478
+"Tucson","2004",1552
+"Tucson","2005",1685
+"Tucson","2006",1675
+"Tucson","2007",1432
+"Tucson","2008",1451
+"Tucson","2009",1246
+"Tucson","2010",1088
+"Tucson","2011",1163
+"Tucson","2012",1260
+"Tucson","2013",1002
+"Tucson","2014",988
+"Tucson","2015",1059
+"Tulsa","1975",581
+"Tulsa","1976",392
+"Tulsa","1977",489
+"Tulsa","1978",609
+"Tulsa","1979",651
+"Tulsa","1980",798
+"Tulsa","1981",949
+"Tulsa","1982",1050
+"Tulsa","1983",968
+"Tulsa","1984",904
+"Tulsa","1985",796
+"Tulsa","1986",858
+"Tulsa","1987",1074
+"Tulsa","1988",1008
+"Tulsa","1989",1416
+"Tulsa","1990",1539
+"Tulsa","1991",1469
+"Tulsa","1992",1344
+"Tulsa","1993",1143
+"Tulsa","1994",1071
+"Tulsa","1995",947
+"Tulsa","1996",868
+"Tulsa","1997",917
+"Tulsa","1998",849
+"Tulsa","1999",887
+"Tulsa","2000",737
+"Tulsa","2001",776
+"Tulsa","2002",901
+"Tulsa","2003",891
+"Tulsa","2004",1035
+"Tulsa","2005",1096
+"Tulsa","2006",997
+"Tulsa","2007",1023
+"Tulsa","2008",1096
+"Tulsa","2009",1117
+"Tulsa","2010",1381
+"Tulsa","2011",1090
+"Tulsa","2012",1062
+"Tulsa","2013",994
+"Tulsa","2014",920
+"Tulsa","2015",854
+"United States","1975",0
+"United States","1976",0
+"United States","1977",0
+"United States","1978",0
+"United States","1979",0
+"United States","1980",0
+"United States","1981",0
+"United States","1982",0
+"United States","1983",0
+"United States","1984",0
+"United States","1985",0
+"United States","1986",0
+"United States","1987",0
+"United States","1988",0
+"United States","1989",0
+"United States","1990",0
+"United States","1991",0
+"United States","1992",0
+"United States","1993",0
+"United States","1994",0
+"United States","1995",0
+"United States","1996",0
+"United States","1997",0
+"United States","1998",0
+"United States","1999",0
+"United States","2000",0
+"United States","2001",0
+"United States","2002",0
+"United States","2003",0
+"United States","2004",0
+"United States","2005",0
+"United States","2006",0
+"United States","2007",0
+"United States","2008",0
+"United States","2009",0
+"United States","2010",0
+"United States","2011",0
+"United States","2012",0
+"United States","2013",0
+"United States","2014",0
+"United States","2015",0
+"Virginia Beach","1975",194
+"Virginia Beach","1976",157
+"Virginia Beach","1977",152
+"Virginia Beach","1978",170
+"Virginia Beach","1979",188
+"Virginia Beach","1980",210
+"Virginia Beach","1981",235
+"Virginia Beach","1982",258
+"Virginia Beach","1983",252
+"Virginia Beach","1984",235
+"Virginia Beach","1985",205
+"Virginia Beach","1986",336
+"Virginia Beach","1987",322
+"Virginia Beach","1988",327
+"Virginia Beach","1989",318
+"Virginia Beach","1990",424
+"Virginia Beach","1991",512
+"Virginia Beach","1992",612
+"Virginia Beach","1993",631
+"Virginia Beach","1994",609
+"Virginia Beach","1995",479
+"Virginia Beach","1996",455
+"Virginia Beach","1997",515
+"Virginia Beach","1998",489
+"Virginia Beach","1999",507
+"Virginia Beach","2000",451
+"Virginia Beach","2001",366
+"Virginia Beach","2002",443
+"Virginia Beach","2003",409
+"Virginia Beach","2004",478
+"Virginia Beach","2005",621
+"Virginia Beach","2006",676
+"Virginia Beach","2007",552
+"Virginia Beach","2008",529
+"Virginia Beach","2009",448
+"Virginia Beach","2010",429
+"Virginia Beach","2011",414
+"Virginia Beach","2012",327
+"Virginia Beach","2013",305
+"Virginia Beach","2014",250
+"Virginia Beach","2015",270
+"Washington","1975",9137
+"Washington","1976",7044
+"Washington","1977",6655
+"Washington","1978",6333
+"Washington","1979",6920
+"Washington","1980",8897
+"Washington","1981",10399
+"Washington","1982",9137
+"Washington","1983",7698
+"Washington","1984",6087
+"Washington","1985",5230
+"Washington","1986",4719
+"Washington","1987",4462
+"Washington","1988",5689
+"Washington","1989",6541
+"Washington","1990",7365
+"Washington","1991",7265
+"Washington","1992",7456
+"Washington","1993",7107
+"Washington","1994",6311
+"Washington","1995",6864
+"Washington","1996",6444
+"Washington","1997",4499
+"Washington","1998",3606
+"Washington","1999",3344
+"Washington","2000",3553
+"Washington","2001",3777
+"Washington","2002",3731
+"Washington","2003",3836
+"Washington","2004",3057
+"Washington","2005",3502
+"Washington","2006",3604
+"Washington","2007",3985
+"Washington","2008",4154
+"Washington","2009",3998
+"Washington","2010",3914
+"Washington","2011",3756
+"Washington","2012",3725
+"Washington","2013",3660
+"Washington","2014",3231
+"Washington","2015",3404
+"Wichita","1975",640
+"Wichita","1976",514
+"Wichita","1977",715
+"Wichita","1978",542
+"Wichita","1979",668
+"Wichita","1980",826
+"Wichita","1981",816
+"Wichita","1982",677
+"Wichita","1983",534
+"Wichita","1984",451
+"Wichita","1985",699
+"Wichita","1986",586
+"Wichita","1987",591
+"Wichita","1988",628
+"Wichita","1989",970
+"Wichita","1990",1079
+"Wichita","1991",1404
+"Wichita","1992",1340
+"Wichita","1993",1327
+"Wichita","1994",1060
+"Wichita","1995",895
+"Wichita","1996",823
+"Wichita","1997",890
+"Wichita","1998",795
+"Wichita","1999",700
+"Wichita","2000",595
+"Wichita","2001",742
+"Wichita","2002",796
+"Wichita","2003",556
+"Wichita","2004",627
+"Wichita","2005",496
+"Wichita","2006",520
+"Wichita","2007",557
+"Wichita","2008",482
+"Wichita","2009",527
+"Wichita","2010",481
+"Wichita","2011",490
+"Wichita","2012",496
+"Wichita","2013",467
+"Wichita","2014",496
+"Wichita","2015",733
