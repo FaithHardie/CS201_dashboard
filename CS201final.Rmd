@@ -2,7 +2,7 @@
 title: "CS201 Flexdashboard"
 output: 
   flexdashboard::flex_dashboard:
-    orientation: columns
+    orientation: rows
     vertical_layout: fill
     source_code: embed
     theme: 
