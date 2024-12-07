@@ -1,12 +1,12 @@
 ---
-title: "CS201 Flexdashboard"
+title: "CS201 Flexdashboard: Violent Crime In The US: Overview"
+author: Faith Hardie
 output: 
   flexdashboard::flex_dashboard:
     orientation: rows
-    vertical_layout: fill
-    source_code: embed
-    theme: 
-      bootswatch: yeti
+    vertical_layout: scroll
+    source_code: https://github.com/FaithHardie/CS201_dashboard
+    theme:  simplex
 ---
 
 ```{r setup, include=FALSE}
@@ -27,16 +27,30 @@ library(usdata)
 
 ```
 
-```{r setup, include=FALSE}
+# About
+
+This Dashboard was designed for my CS201 final project with the intent to share US crime statistics through readable charts.
+
+The questions this dashboard explores are:
+
+How has violent crime in the US changed since 1975-2015? How does violent crime vary from state to state?
+
+The data set used for this dashboard is originally found at: <https://www.kaggle.com/datasets/marshallproject/crime-rates>
+
+"Crime in Context, 1975-2015" The Marshall Project.
+
+All Code for this project is available in my github: <https://github.com/FaithHardie/CS201_dashboard>
+
+```{r include=FALSE}
 
 data <- read_csv(here("data/report.csv"))
 
-data_2015 <- read_csv(here("data/data_2015.csv"))
-jurisdiction_homicide_data <- read_csv(here("data/jurisdiction_homicide_data.csv"))
-jurisdiction_robbery_data <- read_csv(here("data/jurisdiction_robbery_data.csv"))
+#data_2015 <- read_csv(here("data/data_2015.csv"))
+#jurisdiction_homicide_data <- #read_csv(here("data/jurisdiction_homicide_data.csv"))
+#jurisdiction_robbery_data <- #read_csv(here("data/jurisdiction_robbery_data.csv"))
 ```
 
-```{r setup, include=FALSE}
+```{r include=FALSE}
 #cleaning up data 
 data <- data %>%
   clean_names()
@@ -47,7 +61,7 @@ data$report_year<- as.factor(data$report_year)
 
 ```
 
-## Row {data-width="650"}
+## row
 
 ### Heatmap of US Homicides 2015
 
@@ -107,7 +121,7 @@ map <- htmlwidgets::prependContent(
 map
 ```
 
-## {data-width="350"}
+## row
 
 ### Robbery Trends 1975-2013
 
@@ -147,7 +161,7 @@ ggplot(top_jurisdiction_data, aes(x = report_year, y = total_robberies, color = 
   ) +
   theme_minimal() +
   theme(
-    plot.title = element_text(size = 16, hjust = 0.5),
+    plot.title = element_text(size = 16, hjust = 0.3),
     axis.title.x = element_text(size = 12),
     axis.title.y = element_text(size = 12),
     axis.text = element_text(size = 10),
@@ -155,9 +169,10 @@ ggplot(top_jurisdiction_data, aes(x = report_year, y = total_robberies, color = 
     legend.text = element_text(size = 10)
   )
 ```
-###Row {.tabset .tabset-fade}
 
-### Homicides 1975-2015
+## row {.tabset .tabset-fade}
+
+### US Homicides 1975 histogram
 
 ```{r}
 ### Aggregate homicides data
@@ -202,6 +217,8 @@ ggplot(data_1975, aes(x = jurisdiction, y = total_homicides, fill = jurisdiction
 
 ```
 
+###US Homicides 2015 histogram
+
 ```{r}
 ### Aggregate homicides data
 jurisdiction_homicide_data <- data %>%
@@ -243,4 +260,3 @@ ggplot(data_2015, aes(x = jurisdiction, y = total_homicides, fill = jurisdiction
   )
 
 ```
-
