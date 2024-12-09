@@ -51,7 +51,7 @@ data$report_year<- as.factor(data$report_year)
 
 ## row
 
-### Heat Map of US Homicides 2015
+### Heat Map of US Violent Crime Rate 2015
 
 ```{r}
 # Prepare crime data for 2015
