@@ -5,7 +5,7 @@ output:
   flexdashboard::flex_dashboard:
     orientation: rows
     vertical_layout: scroll
-    source_code: https://github.com/FaithHardie/CS201_dashboard
+    source_code: embed
     theme:  simplex
 ---
 
@@ -27,19 +27,7 @@ library(usdata)
 
 ```
 
-# About
-
-This Dashboard was designed for my CS201 final project with the intent to share US crime statistics through readable charts.
-
-The questions this dashboard explores are:
-
-How has violent crime in the US changed since 1975-2015? How does violent crime vary from state to state?
-
-The data set used for this dashboard is originally found at: <https://www.kaggle.com/datasets/marshallproject/crime-rates>
-
-"Crime in Context, 1975-2015" The Marshall Project.
-
-All Code for this project is available in my github: <https://github.com/FaithHardie/CS201_dashboard>
+# Data
 
 ```{r include=FALSE}
 
@@ -63,7 +51,7 @@ data$report_year<- as.factor(data$report_year)
 
 ## row
 
-### Heatmap of US Homicides 2015
+### Heat Map of US Homicides 2015
 
 ```{r}
 # Prepare crime data for 2015
@@ -123,7 +111,7 @@ map
 
 ## row
 
-### Robbery Trends 1975-2013
+### Robbery Trends 1975-2015
 
 ```{r}
 # Aggregate 
@@ -151,7 +139,7 @@ top_jurisdiction_data <- top_jurisdiction_data %>%
 ggplot(top_jurisdiction_data, aes(x = report_year, y = total_robberies, color = jurisdiction, group = jurisdiction)) +
   geom_line(size = 1) +
   labs(
-    title = "Robbery Trends Over Time for States with Highest Population",
+    title = "Robbery Trends for States with Highest Population",
     x = "Year",
     y = "Total Robberies",
     color = "Jurisdiction"
@@ -197,7 +185,7 @@ data_1975 <- jurisdiction_homicide_data %>%
   filter(jurisdiction %in% top_jurisdiction, report_year == 1975)
 
 ### Histogram for 1975
-ggplot(data_1975, aes(x = jurisdiction, y = total_homicides, fill = jurisdiction)) +
+h1975 <- ggplot(data_1975, aes(x = jurisdiction, y = total_homicides, fill = jurisdiction)) +
   geom_col() +
   labs(
     title = "Total Homicides in 1975 for Top Jurisdictions",
@@ -214,10 +202,10 @@ ggplot(data_1975, aes(x = jurisdiction, y = total_homicides, fill = jurisdiction
     legend.position = "none"
   )
 
-
+ggplotly(h1975)
 ```
 
-###US Homicides 2015 histogram
+### US Homicides 2015 histogram
 
 ```{r}
 ### Aggregate homicides data
@@ -242,7 +230,7 @@ data_2015 <- jurisdiction_homicide_data %>%
   filter(jurisdiction %in% top_jurisdiction, report_year == 2015)
 
 ### Histogram for 2015
-ggplot(data_2015, aes(x = jurisdiction, y = total_homicides, fill = jurisdiction)) +
+h2015 <- ggplot(data_2015, aes(x = jurisdiction, y = total_homicides, fill = jurisdiction)) +
   geom_col() +
   labs(
     title = "Total Homicides in 2015 for Top Jurisdictions",
@@ -259,4 +247,20 @@ ggplot(data_2015, aes(x = jurisdiction, y = total_homicides, fill = jurisdiction
     legend.position = "none"
   )
 
+ggplotly(h2015)
+
 ```
+
+# About
+
+This Dashboard was designed for my CS201 final project with the intent to share US crime statistics through readable charts.
+
+The questions this dashboard explores are:
+
+How has violent crime in the US changed since 1975-2015? How does violent crime vary from state to state?
+
+The data set used for this dashboard is originally found at: <https://www.kaggle.com/datasets/marshallproject/crime-rates>
+
+"Crime in Context, 1975-2015" The Marshall Project.
+
+All Code for this project is available in my github: <https://github.com/FaithHardie/CS201_dashboard>
