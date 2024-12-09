@@ -265,9 +265,7 @@ The data set used for this dashboard is originally found at: <https://www.kaggle
 
 <<<<<<< HEAD
 All Code for this project is available in my github: <https://github.com/FaithHardie/CS201_dashboard> 
-=======
+
 All Code for this project is available in my github: <https://github.com/FaithHardie/CS201_dashboard>
 
 
-
->>>>>>> b68b75ee25d4b427070ec9af49ef589e54094b43
