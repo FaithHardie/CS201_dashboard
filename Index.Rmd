@@ -119,6 +119,7 @@ jurisdiction_robbery_data <- data %>%
   group_by(jurisdiction = sub(",.*", "", agency_jurisdiction), report_year) %>%
   summarize(total_robberies = sum(robberies, na.rm = TRUE)) %>%
   ungroup()
+
 ##Creating smaller set: highestpopulation
 top_jurisdiction <- jurisdiction_robbery_data %>%
   group_by(jurisdiction) %>%
@@ -127,7 +128,7 @@ top_jurisdiction <- jurisdiction_robbery_data %>%
   slice(1:10) %>%
   pull(jurisdiction)
 
-# Filter data 
+# Filter data
 top_jurisdiction_data <- jurisdiction_robbery_data %>%
   filter(jurisdiction %in% top_jurisdiction)
 
@@ -137,7 +138,7 @@ top_jurisdiction_data <- top_jurisdiction_data %>%
 
 # line chart
 ggplot(top_jurisdiction_data, aes(x = report_year, y = total_robberies, color = jurisdiction, group = jurisdiction)) +
-  geom_line(size = 1) +
+  geom_line(linewidth = 1) +
   labs(
     title = "Robbery Trends for States with Highest Population",
     x = "Year",
