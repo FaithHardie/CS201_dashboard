@@ -137,7 +137,7 @@ top_jurisdiction_data <- top_jurisdiction_data %>%
   mutate(report_year = as.numeric(as.character(report_year)))  
 
 # line chart
-ggplot(top_jurisdiction_data, aes(x = report_year, y = total_robberies, color = jurisdiction, group = jurisdiction)) +
+robbery <- ggplot(top_jurisdiction_data, aes(x = report_year, y = total_robberies, color = jurisdiction, group = jurisdiction)) +
   geom_line(linewidth = 1) +
   labs(
     title = "Robbery Trends for States with Highest Population",
@@ -157,6 +157,8 @@ ggplot(top_jurisdiction_data, aes(x = report_year, y = total_robberies, color = 
     legend.title = element_text(size = 12),
     legend.text = element_text(size = 10)
   )
+
+ggplotly(robbery)
 ```
 
 ## row {.tabset .tabset-fade}
